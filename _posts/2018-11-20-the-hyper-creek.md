@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  The Hyper Creek
+title:  The Hyper Creek [Blog Post \#2]
 categories: [blog, research]
 tags: [critical_infrastructure, san_francisco]
 ---
-
-## The Hyper Creek [Blog Post #2]
 
 What does is mean to daylight a creek? What does it mean for the city?
 

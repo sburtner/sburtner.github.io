@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  The Hyper-Creek
-subtitle: Blog Post `#`2
+title:  The Hyper-Creek (Blog Post \# 2)
 ---
 
 What does is mean to daylight a creek? What does it mean for the city?
@@ -16,5 +15,5 @@ When we daylight a creek, we daylight all of the life forms dependent upon and s
 
 This blog post builds upon the last to update the reader on the current status of Islais Creek, and also weaves together my personal relationship with the creek and some of those helping to bring it to the daylight.
 
-[Additional info:](https://www.eco-business.com/opinion/how-the-urban-nexus-will-make-your-city-more-resource-efficient/)
+[Additional info](https://www.eco-business.com/opinion/how-the-urban-nexus-will-make-your-city-more-resource-efficient/)
 

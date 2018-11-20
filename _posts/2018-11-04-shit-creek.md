@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Shit Creek
+title: Shit Creek [Blog Post \#1]
 categories: [blog, research] 
 tags: [critical_infrastructure, san_francisco]
 ---
-
-# Shit Creek [Blog Post #1]
 
 Some have called climate change one of society’s modern-day "Frankenstein's" (Joshua Rothman, The New Yorker). Like Frankenstein, climate change was made by and is continually scorned by humans.
 

@@ -20,9 +20,9 @@ I created this website to help document my PhD experience. I hope this can be a 
 
 ### Research & teaching philosophy
 
-My research is very interdisciplinary, and collaboration is a key tenet of my research philosophy.
+I have always been engaged by interdisciplinary projects, and I try to draw from different fields when exploring theoretical and analytical frames.
 
-I want to make room for the "acadmeic", the "stakeholder", and the "amateur" in my work. I strongly belive in shared interpretation and the coproduction of knowledge. We are all teachers, and we are all students.
+Collaboration is a key tenet of my research & teaching philosophy. I want to make room for the "academic", the "stakeholder", and the "amateur" in my work. I strongly belive in shared interpretation and the coproduction of knowledge.
 
 I love meeting and talking to new people, so in that spirit, I attempt to make my work public as an invitation to hear from and work with... YOU!
 
@@ -31,4 +31,4 @@ I love meeting and talking to new people, so in that spirit, I attempt to make m
 
 Please feel free to contact me with any comments, questions, or funny gifs/memes.
 
-[sab00@ucsb.com](mailto:sab00@ucsb.com)
+Email: [sab00@ucsb.com](mailto:sab00@ucsb.com)

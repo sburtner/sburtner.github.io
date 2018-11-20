@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shit Creek
-subtitle: Blog Post 1
+subtitle: Blog Post `#`1
 ---
 
 Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). The creek is surrounded by 

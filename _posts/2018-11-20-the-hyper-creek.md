@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  The Hyper Creek [Blog Post 2]
+title:  The Hyper-Creek
+subtitle: Blog Post `#`2
 ---
 
 What does is mean to daylight a creek? What does it mean for the city?

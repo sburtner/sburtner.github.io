@@ -4,7 +4,9 @@ title: Shit Creek
 subtitle: Blog Post \# 1
 ---
 
-Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). The creek is surrounded by 
+Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). From above, you can see that the 3rd St. bridge closes off the creek from the channel on the east end, while the tall, meandering roadways of the 280 and all of its speeding cars close off the west end.
+
+On the ground, the landscape surrounding the creek gives an industrial vibe. Empty cars, buses, and tour buses line the northern end, sitting quietly until called by the myriad of auto and transporation companies. The southern end also has a collection of seemingly low-profile, unknown businesses, a scene quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.  
 
 Some have called climate change one of society's modern-day "Frankenstein's" (Joshua Rothman, *The New Yorker*). Like Frankenstein, climate change was made by and is continually scorned by its creator: the human race. Climate change is easy to ignore... when everything is going fine. But increasing severe weather patterns, expose the incredible, destructive power humans have had on this planet.
 

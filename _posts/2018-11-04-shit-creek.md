@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shit Creek [Blog Post /#1]
+title: Shit Creek [Blog Post \#1]
 categories: [blog, research] 
 tags: [critical_infrastructure, san_francisco]
 ---

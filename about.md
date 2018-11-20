@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Hi, I'm Su!
+## Hi, I'm Su!
 
 I spell my name in a non-traditional fashion, I know.
 

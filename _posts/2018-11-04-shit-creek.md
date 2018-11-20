@@ -3,10 +3,17 @@ layout: post
 title: Shit Creek
 ---
 
-Islais Creek test test.
+Some have called climate change one of society’s modern-day "Frankenstein's" (Joshua Rothman, The New Yorker). Like Frankenstein, climate change was made by and is continually scorned by humans.
 
-#Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Talk about water… Talk about aquatic/urban nexus…
 
-#![_config.yml]({{ site.baseurl }}/images/config.png)
+Talk about San Francisco and Islais Creek.
 
-#The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more #instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[historic site](https://pubs.usgs.gov/wsp/0297/report.pdf)
+
+[historic map](http://explore.museumca.org/creeks/1690-SF1869-2007.html)
+
+
+I found Islais Creek back in college when I was obsessed with paddling. At the time, I had my own canoe but wanted to train sprints somewhere where the water was flat. The problem with my relationship with the creek was that like most of the city of San Francisco, I had no idea about the history of the creek and was merely using it for my own selfish purposes. That’s when I became more involved with the volunteer organizations that help keep the creek clean.
+
+Why was there so much interest in preserving this tiny creek? This tiny creek had a massive role in the urban development of San Francisco.

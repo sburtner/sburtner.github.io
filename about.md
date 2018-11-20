@@ -15,7 +15,7 @@ Network science, spatial data science, geographic information systems... those a
 
 ## Purpose of this website
 
-I created this website to help document my PhD experience. I hope this can be a launching point for "daylighting" my past and current work.
+I created this website to help document my PhD experience by "daylighting" my past and current work.
 
 
 ### Research & teaching philosophy

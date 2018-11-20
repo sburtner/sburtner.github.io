@@ -9,7 +9,7 @@ Talk about water… Talk about aquatic/urban nexus…
 
 Talk about San Francisco and Islais Creek.
 
-[historic site](https://pubs.usgs.gov/wsp/0297/report.pdf)
+[gazetteer](https://pubs.usgs.gov/wsp/0297/report.pdf)
 
 [historic map](http://explore.museumca.org/creeks/1690-SF1869-2007.html)
 

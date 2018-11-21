@@ -3,14 +3,18 @@ layout: post
 title: Shit Creek (Blog Post \# 1)
 ---
 
-Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). From above, you can see that the 3rd St. bridge closes off the creek from the channel on the east end, while the tall, meandering roadways of the 280 and all of its speeding cars create an ominous, seemingly inpenetrable barrier at the west end.
+Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). From above, you can see that the 3rd St. bridge closes off the creek from the channel at the east end, while the tall, meandering roadways of the 280 and all of its speeding cars create an ominous, seemingly inpenetrable barrier at the west end.
 
-On the ground, the landscape surrounding the creek is a somber mix of over-grown weeds, litter, and a bricolage of industrial stuctures such as concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, empty cars, vans, and tour buses fill various corners of various lots, sitting quietly until called upon by the myriad of auto and transporation companies that help San Francisco move. The southern end of the creek is no more lively with its collection of seemingly low-profile, garage front and warehouse businesses, a scene quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
+On the ground, the landscape surrounding the creek is a somber mix of over-grown weeds, litter, and a bricolage of industrial stuctures such as concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, rows of empty cars, vans, and tour buses stand at attention, waiting patiently until called upon by the myriad of auto and transporation companies that help San Francisco move. The southern end of the creek is no more lively with its collection of seemingly low-profile, garage-front and warehouse businesses, a scene altogether quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
+
+To most of the residents of San Francisco, Islais Creek is just like any other creek, and its location and industrial surroundings hardly make it a popular destination spot. But how the creek came to be in its current state is a fascinating story, embedded heavily into the history of San Francisco.
+
+My intent with these blog posts goes beyond trying to push to "daylight" Islais Creek into some semblance of its natural form. I also hope to use these posts as an opportunity to reconnect the people of San Francisco to its aquatic infrastructures, its history, and the complex urban-aquatic nexus that forces us to challenge our role in the ongoing problems of climate change. In this series of blog posts, I introduce the history of Islais Creek, community and business efforts to revive the creek in various ways, all the while integrating the impact that climate change has had on all of these endeavours.
 
 
 ## The watershed (and the history) underneath
 
-Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek, in its natural form, underwent dramatic changes during the 20th century. 
+Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. 
 
 Talk about water… Talk about aquatic/urban nexus…
 

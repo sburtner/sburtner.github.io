@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hi, I'm Su!
 
-I spell my name in a non-traditional fashion, I know.
+You can spell it Su or Sue, I don't mind either way.
 
 I am currently a PhD student studying Geography at the University of California, Santa Barbara. Before this, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. Before that, I was "master"-ing Urban Spatial Analytics at the University of Pennsylvania. And even before that, I was a squirrelly engineering student at the University of California, Berkeley. Apparently I love school!
 
@@ -15,14 +15,14 @@ I am currently a PhD student studying Geography at the University of California,
 
 ## Purpose of this website
 
-I created this website to help document my PhD experience by "daylighting" my past and current work. The sites serves a repository for the project data and accompanying 
+I created this website to help document my PhD experience by "daylighting" my past and current work. The sites serves as a repository for project data and accompanying documents.
 
 
 ### Research & teaching philosophy
 
 I have always been engaged by interdisciplinary projects, and I try to draw from different fields when exploring and applying theoretical and analytical frames.
 
-Collaboration is a key tenet of my research & teaching philosophy. I want to make room for the "academic", the "stakeholder", and the "amateur" in my work. I strongly belive in shared interpretation and the coproduction of knowledge.
+Collaboration is a key tenet of my research. I want to make room for the "academic", the "stakeholder", and the "amateur" in my work. I strongly belive in shared interpretation and the coproduction of knowledge.
 
 I love meeting and talking to new people, so in that spirit, I attempt to make my work public as an invitation to hear from and work with... YOU!
 

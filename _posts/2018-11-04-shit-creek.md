@@ -5,17 +5,21 @@ title: 'Shit Creek (Blog Post #1)'
 
 Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). From above, you can see that the 3rd St. bridge closes off the creek from the channel at the east end, while the tall, meandering lanes of the 280 and all of its speeding cars create an ominous, impenetrable barrier at the west end.
 
-On the ground, the landscape surrounding the creek is a somber mix of over-grown weeds, litter, and industrial stuctures, including concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, rows of empty cars, vans, and tour buses stand at attention, waiting patiently until called upon by the myriad of auto and tourist companies that help transport San Francisco's local and visiting commuters. The southern end of the creek is similarly serene with its collection of low-profile, garage-front and warehouse businesses, a scene altogether quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
-
-![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pano.JPG){:class="img-responsive"}
+On the ground, the landscape surrounding the creek is a somber mix of over-grown weeds, litter, and industrial stuctures, including concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, rows of empty cars, vans, and tour buses stand at attention, waiting patiently until called upon by the myriad of auto and tourist companies that help transport San Francisco's commuters. The southern end of the creek is similarly serene with its collection of low-profile, garage-front and warehouse businesses, a scene altogether quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pano.JPG) | 
 |:--:| 
 | *Islais Creek, as seen from the park.* |
 
-To most of the residents of San Francisco, Islais Creek is largely unknown. Its location, reputation for attracting skaters and homeless individuals, and industrial surroundings make it a less-than-popular destination spot. The natural and physical form of the creek, just like its history, meanders in and out of visibility, largely due to the whim of city planners who have made decisions with people and capital first, nature second. Most of Islais Creek remains hidden underground, built over by years of urban development.
+To most of the residents of San Francisco, Islais Creek is largely unknown. Its location, reputation for attracting skaters and homeless individuals, and industrial surroundings make it a less-than-popular destination spot. The natural and physical form of the creek, just like its history, meanders in and out of visibility, largely due to the whim of city planners who have made decisions with people and profit first, nature second. Most of Islais Creek remains hidden underground, built over by years of urban development, and disaster.
 
-But recently, that attitude towards the creek is changing. Over the past few years, there have been several efforts by different groups to "daylight" Islais Creek. The process of [daylighting a creek](http://americanrivers.org/wp-content/uploads/2016/05/AmericanRivers_daylighting-streams-report.pdf), according to [AmericanRivers.org](https://www.americanrivers.org/conservation-resource/daylighting-streams-breathing-life-urban-streams-communities/),
+But recently, the attitude towards the creek is changing. Over the past few years, there have been several efforts by different groups to "daylight" Islais Creek. The process of [daylighting](http://americanrivers.org/wp-content/uploads/2016/05/AmericanRivers_daylighting-streams-report.pdf), according to [AmericanRivers.org](https://www.americanrivers.org/conservation-resource/daylighting-streams-breathing-life-urban-streams-communities/), "involves uncovering some or all of the previously covered river, stream, or stormwater drainage. Although most stream daylighting involves restoring a stream to a more natural state, other forms include architectural and cultural restoration."
+
+Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. A statue and marquee commemorating the creek were erected in early efforts to 
+
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/islais_sign.JPG) | 
+|:--:| 
+| *A recovered tower from a crane with artist Todd Martinez's "Islais" inscribed metal fish.* |
 
 The movement to daylight Islais Creek echoes broader efforts worldwide to better address the urban resilience, the intersection of human development. 
 
@@ -24,7 +28,7 @@ My intent with these blog posts goes beyond trying to push to "daylight" Islais 
 
 ## The watershed (and the history) underneath
 
-Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. 
+Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. [Up until the 1950's](https://www.sfparksalliance.org/our-parks/parks/islais-creek) Islais Creek was essentially an open sewage, and that's how it got it's name as "Shit Creek."
 
 Talk about water… Talk about aquatic/urban nexus…
 

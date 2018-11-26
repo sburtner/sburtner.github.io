@@ -22,7 +22,7 @@ But recently, the attitude towards the creek is changing. Over the past few year
 Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. [Julia Viera](http://www.foundsf.org/index.php?title=Copra_Crane_in_Islais_Creek) gathered her neighbors and formed "Friends of Islais Creek" in the 1980's and convinced the Port of San Francisco to put off destorying the infamous Copra Crane until a park could be built along the creek. A statue and marquee commemorating Islais were erected when the [3rd St. bridge was put in place](https://www.artandarchitecture-sf.com/islais-creek-par.html). Another [sculpture](https://hoodline.com/2018/05/sf-port-arts-commission-unveils-islais-creek-sculpture) by artist Cliff Garten was erected earlier this year. A group hoping to save the Copra Crane danced upon it in 1999, but the crane was ultimately dismantled and removed in subsequent years.
 
 <center>
-<iframe width="663" height="994" src="https://www.youtube.com/watch?time_continue=2&v=pC0NAWQTOIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="663" height="497" src="https://www.youtube.com/embed/pC0NAWQTOIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </center>
 
 

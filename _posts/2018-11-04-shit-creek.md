@@ -7,7 +7,7 @@ Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco
 
 On the ground, the landscape surrounding the creek is a somber mix of over-grown weeds, litter, and industrial stuctures, including concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, rows of empty cars, vans, and tour buses stand at attention, waiting patiently until called upon by the myriad of auto and tourist companies that help transport San Francisco's commuters. The southern end of the creek is similarly serene with its collection of low-profile, garage-front and warehouse businesses, a scene altogether quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pano.JPG) | 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pano.JPG){:class="img-responsive"} | 
 |:--:| 
 | *Islais Creek, as seen from the park.* |
 

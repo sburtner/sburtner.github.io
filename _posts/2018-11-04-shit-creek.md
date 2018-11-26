@@ -17,7 +17,7 @@ But recently, the attitude towards the creek is changing. Over the past few year
 
 Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. A statue and marquee commemorating the creek were erected in early efforts to 
 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/islais_sign.JPG){style="transform:rotate(90deg)} | 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/islais_sign.JPG){style="transform:rotate(90deg);"} | 
 |:--:| 
 | *A recovered tower from a crane with artist Todd Martinez's "Islais" inscribed metal fish.* |
 

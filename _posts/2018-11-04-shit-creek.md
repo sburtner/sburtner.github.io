@@ -15,11 +15,16 @@ To most of the residents of San Francisco, Islais Creek is largely unknown. Its 
 
 But recently, the attitude towards the creek is changing. Over the past few years, there have been several efforts by different groups to "daylight" Islais Creek. The process of [daylighting](http://americanrivers.org/wp-content/uploads/2016/05/AmericanRivers_daylighting-streams-report.pdf), according to [AmericanRivers.org](https://www.americanrivers.org/conservation-resource/daylighting-streams-breathing-life-urban-streams-communities/), "involves uncovering some or all of the previously covered river, stream, or stormwater drainage. Although most stream daylighting involves restoring a stream to a more natural state, other forms include architectural and cultural restoration."
 
-Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. [Julia Viera](http://www.foundsf.org/index.php?title=Copra_Crane_in_Islais_Creek) gathered her neighbors and formed "Friends of Islais Creek" in the 1980's and convinced the Port of San Francisco to put off destorying the infamous Copra Crane until a park could be built along the creek. A statue and marquee commemorating were erected when the [3rd St. bridge was put in place](https://www.artandarchitecture-sf.com/islais-creek-par.html). A group hoping to save the Copra Crane danced upon it in 1999 (https://www.youtube.com/watch?time_continue=2&v=pC0NAWQTOIk), but the crane was ultimately dismantled and removed. Another [sculpture](https://hoodline.com/2018/05/sf-port-arts-commission-unveils-islais-creek-sculpture) by artist Cliff Garten was erected earlier this year.  
-
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/islais_sign.png) | 
 |:--:| 
 | *A recovered tower from a crane with artist Todd Martinez's "Islais" inscribed metal fish.* |
+
+Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. [Julia Viera](http://www.foundsf.org/index.php?title=Copra_Crane_in_Islais_Creek) gathered her neighbors and formed "Friends of Islais Creek" in the 1980's and convinced the Port of San Francisco to put off destorying the infamous Copra Crane until a park could be built along the creek. A statue and marquee commemorating Islais were erected when the [3rd St. bridge was put in place](https://www.artandarchitecture-sf.com/islais-creek-par.html). Another [sculpture](https://hoodline.com/2018/05/sf-port-arts-commission-unveils-islais-creek-sculpture) by artist Cliff Garten was erected earlier this year. A group hoping to save the Copra Crane danced upon it in 1999, but the crane was ultimately dismantled and removed in subsequent years.
+
+<center>
+<iframe width="888" height="500" src="https://www.youtube.com/watch?time_continue=2&v=pC0NAWQTOIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</center>
+
 
 The movement to daylight Islais Creek echoes broader efforts worldwide to better address the urban resilience, the intersection of human development. 
 

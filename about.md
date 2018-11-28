@@ -22,7 +22,7 @@ I created this website to help document my PhD experience by "daylighting" my pa
 
 I have always been engaged by interdisciplinary projects, and I try to draw from different fields when exploring and applying theoretical and analytical frames.
 
-Collaboration is a key tenet of my research. I want to make room for the "academic", the "stakeholder", and the "amateur" in my work. I strongly belive in shared interpretation and the coproduction of knowledge.
+Collaboration is a key tenet of my research. I want to make room for the "academic", the "stakeholder", and the "amateur" in my work. I strongly believe in shared interpretation and the coproduction of knowledge.
 
 I love meeting and talking to new people, so in that spirit, I attempt to make my work public as an invitation to hear from and work with... YOU!
 

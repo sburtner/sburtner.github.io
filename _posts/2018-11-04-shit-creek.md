@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Shit Creek (Blog Post #1)'
-cover_image: https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pano.JPG
 comments: true
 ---
 

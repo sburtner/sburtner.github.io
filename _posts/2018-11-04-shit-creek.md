@@ -12,13 +12,30 @@ The landscape surrounding the creek is a somber mix of over-grown weeds, litter,
 |:--:| 
 | *Islais Creek, as seen from the park.* |
 
-To most of the residents of San Francisco, Islais Creek is largely unknown. Its location, reputation for attracting skaters and homeless individuals, and industrial surroundings make it a less-than-popular destination spot. The natural and physical form of the creek, just like its history, meanders in and out of visibility, largely due to the whim of city planners who have made decisions with people and profit first, nature second. Most of Islais Creek remains hidden underground, built over by years of urban development and natural disaster.
+To most of the residents of San Francisco, Islais Creek is largely unknown. Its location, reputation for attracting skaters and homeless individuals, and industrial surroundings make it a less-than-popular destination spot. The natural and physical form of the creek, just like its history, meanders in and out of visibility, largely due to the whim of city planners who have made decisions with people and profit first, nature second. Most of Islais Creek remains hidden underground, built over by years of urban development.
+
+
+## The watershed (and the history) underneath
+
+Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. In the early development of San Francisco, 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. [Up until the 1950's](https://www.sfparksalliance.org/our-parks/parks/islais-creek) Islais Creek was essentially an open sewage, and that's how it got it's name as "Shit Creek."
+
+> Islais Creek was fed, in part, by a stream that flowed down from the hills by way of what is today Alemany Boulevard. It was in this creek that we boys would catch pollywogs and bring them home, much to the consternation of our mothers. Mothers failed to find the creatures to be an adornment to their households. Today that stream is a busy highway carrying a heavy stream of automotive traffic.
+> - Excerpt from Frank R. Quinn's 1984 memoir, *Growing Up in the Mission*
+
+Talk about water… Talk about aquatic/urban nexus…
+
+
+## Climate change/Frankenstein
+
+Some have called climate change one of society's modern-day "Frankenstein's" (Joshua Rothman, *The New Yorker*). Like Frankenstein, climate change was made by and is continually scorned by its creator: the human race. Climate change is easy to ignore... when everything is going fine. But increasing severe weather patterns, expose the incredible, destructive power humans have had on this planet.
+
+Humans, in their widespread geographic locales, collectively contribute to this global problem (though some more than others.) Ironically, there is one element that humans cannot repair nor replace, and this is water. 
 
 But recently, the attitude towards the creek is changing. Over the past few years, there have been several efforts by different groups to "daylight" Islais Creek. The process of [daylighting](http://americanrivers.org/wp-content/uploads/2016/05/AmericanRivers_daylighting-streams-report.pdf), according to [AmericanRivers.org](https://www.americanrivers.org/conservation-resource/daylighting-streams-breathing-life-urban-streams-communities/), "involves uncovering some or all of the previously covered river, stream, or stormwater drainage. Although most stream daylighting involves restoring a stream to a more natural state, other forms include architectural and cultural restoration."
 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/islais_sign.png) | 
 |:--:| 
-| *A recovered tower from a crane with artist Todd Martinez's "Islais" inscribed metal fish.* |
+| *A recovered tower from a crane with an "Islais" inscribed metal fish, created by [Todd Martinez and Robin Chiang](https://www.artandarchitecture-sf.com/tag/copra-crane).* |
 
 Ironically, more of the "uncovering" of Islais Creek is happening through these latter forms of restoration. [Julia Viera](http://www.foundsf.org/index.php?title=Copra_Crane_in_Islais_Creek) gathered her neighbors and formed "Friends of Islais Creek" in the 1980's and convinced the Port of San Francisco to put off destorying the infamous Copra Crane until a park could be built along the creek. A statue and marquee commemorating Islais were erected when the [3rd St. bridge was put in place](https://www.artandarchitecture-sf.com/islais-creek-par.html). Another [sculpture](https://hoodline.com/2018/05/sf-port-arts-commission-unveils-islais-creek-sculpture) by artist Cliff Garten was erected earlier this year. A group hoping to save the Copra Crane danced upon it in 1999, but the crane was ultimately dismantled and removed in subsequent years.
 
@@ -32,18 +49,9 @@ The movement to daylight Islais Creek echoes broader efforts worldwide to better
 My intent with these blog posts goes beyond trying to push to "daylight" Islais Creek into some semblance of its natural form. I also hope to use these posts as an opportunity to reconnect the people of San Francisco to its aquatic infrastructures, its history, and the complex urban-aquatic nexus that forces us to challenge our role in the ongoing problems of climate change. In this series of blog posts, I introduce the history of Islais Creek, community and business efforts to revive the creek in various ways, all the while integrating the impact that climate change has had on all of these endeavours.
 
 
-## The watershed (and the history) underneath
-
-Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. [Up until the 1950's](https://www.sfparksalliance.org/our-parks/parks/islais-creek) Islais Creek was essentially an open sewage, and that's how it got it's name as "Shit Creek."
-
-Talk about water… Talk about aquatic/urban nexus…
 
 
-## Climate change/Frankenstein
 
-Some have called climate change one of society's modern-day "Frankenstein's" (Joshua Rothman, *The New Yorker*). Like Frankenstein, climate change was made by and is continually scorned by its creator: the human race. Climate change is easy to ignore... when everything is going fine. But increasing severe weather patterns, expose the incredible, destructive power humans have had on this planet.
-
-Humans, in their widespread geographic locales, collectively contribute to this global problem (though some more than others.) Ironically, there is one element that humans cannot repair nor replace, and this is water. 
 
 ## So, what happens next?
 

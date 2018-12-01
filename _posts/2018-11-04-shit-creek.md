@@ -20,7 +20,7 @@ To most of the residents of San Francisco, Islais Creek is largely unknown. Its 
 Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. In the early development of San Francisco, 80% of all drinking water came from Islais Creek. It also used to be over four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century. [Up until the 1950's](https://www.sfparksalliance.org/our-parks/parks/islais-creek) Islais Creek was essentially an open sewage, and that's how it got it's name as "Shit Creek."
 
 > Islais Creek was fed, in part, by a stream that flowed down from the hills by way of what is today Alemany Boulevard. It was in this creek that we boys would catch pollywogs and bring them home, much to the consternation of our mothers. Mothers failed to find the creatures to be an adornment to their households. Today that stream is a busy highway carrying a heavy stream of automotive traffic.
-> - Excerpt from Frank R. Quinn's 1984 memoir, *Growing Up in the Mission*
+> -- Excerpt from Frank R. Quinn's 1984 memoir, *Growing Up in the Mission*
 
 Talk about water… Talk about aquatic/urban nexus…
 

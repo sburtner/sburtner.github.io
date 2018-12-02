@@ -4,10 +4,10 @@ title: 'Shit Creek (Blog Post #1)'
 comments: true
 ---
 
-Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). The 3rd St. bridge closes off the creek from the channel at the east end, while the tall, meandering lanes of the 280 and all of its speeding cars create an ominous, impenetrable barrier at the west end.
-
 > Islais Creek was fed, in part, by a stream that flowed down from the hills by way of what is today Alemany Boulevard. It was in this creek that we boys would catch pollywogs and bring them home, much to the consternation of our mothers. Mothers failed to find the creatures to be an adornment to their households. Today that stream is a busy highway carrying a heavy stream of automotive traffic.
->> Excerpt from Frank R. Quinn's 1984 memoir, *Growing Up in the Mission*
+  + Excerpt from Frank R. Quinn's 1984 memoir, *Growing Up in the Mission*
+
+Islais Creek sits at the mouth of the [Bernal Heights watershed in San Francisco, California](http://explore.museumca.org/creeks/1630-RescIslais.html#). The 3rd St. bridge closes off the creek from the channel at the east end, while the tall, meandering lanes of the 280 and all of its speeding cars create an ominous, impenetrable barrier at the west end.
 
 The landscape surrounding the creek is a somber mix of over-grown weeds, litter, and industrial stuctures, including concrete blocks, rusted steel beams, and wooden posts protruding from the water. Just beyond the raised banks on the northern end of the creek, rows of empty cars, vans, and tour buses stand at attention, waiting patiently until called upon by the myriad of auto and tourist companies that help keep San Francisco's commuters in constant movement. The southern end of the creek is similarly serene with its collection of low-profile, garage-front and warehouse businesses, a scene altogether quite different from the hustle and bustle of the waterfront and Mission areas mere blocks away.
 
@@ -20,9 +20,15 @@ To most of the residents of San Francisco, Islais Creek is largely unknown. Its 
 
 ## The water (and the history) underneath
 
-Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. In the early development of San Francisco, [85% of all drinking water came from Islais Creek](http://art-ecology.com/?page_id=881). The creek used to be about four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century as San Francisco transformed into an urban mecca. From 1870 to the early 1990s, the area around Islais Creek was flanked by slaughterhouses and dubbed ["Butchertown."](https://www.nytimes.com/2010/11/28/us/28bcintel.html) Though increasing health hazards spurred regulation and the construction of modern meat-packing factories forced most of the slaughterhouses to shut down, Islais Creek remained an open sewage. During this time, Islais Creek earned the moniker ["Shit Creek"](https://www.sfparksalliance.org/our-parks/parks/islais-creek)." The size of Islais Creek was reduced by [80% to what it is today](http://art-ecology.com/?page_id=881) after the devastating 1906 earthquake, when city officials decided to clear the city of debris by dumping it into the creek.
+Looking at the creek today, it is difficult to imagine that it was once the primary source of the city's water. In San Francisco's early years, [85% of all drinking water came from Islais Creek](http://art-ecology.com/?page_id=881). The creek used to be about four miles in length, stretching from the Bay all the way to the Pacific Ocean. But the creek underwent dramatic changes during the 20th century as San Francisco transformed into an urban mecca. From 1870 to the early 1900s, the area around Islais Creek was flanked by slaughterhouses and dubbed ["Butchertown."](https://www.nytimes.com/2010/11/28/us/28bcintel.html) Though increasing health hazards spurred regulation and the construction of modern meat-packing factories forced most of the slaughterhouses to shut down, Islais Creek remained an open sewage. During this time, Islais Creek earned the moniker ["Shit Creek"](https://www.sfparksalliance.org/our-parks/parks/islais-creek)." The condition and size of the creek worsened after the 1906 earthquake, reduced to [80% to what it is today](http://art-ecology.com/?page_id=881), when city officials decided to clear the city of debris by dumping it all into the creek. What was once a source of life had become a sewer, and then a burial ground.
 
-We often take for granted how precious water is. 
+We often take for granted how fragile the Earth's water can be, especially when if flows in ways counter to our desires. The hidden portions of Islais Creek creep back into consciousness when it permeates areas of occupied human spaces. Islais Creek would often flood the [Balboa High cafeteria](https://www.sfgate.com/homeandgarden/article/S-F-history-lesson-runs-through-Islais-Creek-3176646.php#photo-2312654), which has since been rebuilt. It was also thought to flood the Alemany Housing Project from time to time. In these instances, the water of Islais Creek challenges its exile, forcing citizens and city planners to recognize its presence. Flooding has a philosphical undercurrent to it. It occurs because water accumulates too quickly in places where it was once confined. Modern humans are their environmental guards. We confine water to the prisons of our urban structures, and we yet we are the ones punished when it escapes. In some ways, the consequences of urban development and its broader effects on climate change are modern society's Frankenstein.
+
+## Climate change, our Frankenstein
+
+Many have refered to climate change as society's modern-day "Frankenstein" (Joshua Rothman, *The New Yorker*). Like Frankenstein, climate change was made by and is continually scorned by us, its creator. Climate change is easy to ignore... when everything is going fine. But increasing severe weather patterns, expose the incredible, destructive power humans have had on this planet.
+
+Humans, in their widespread geographic locales, collectively contribute to this global problem (though some more than others.) Ironically, there is one element that humans cannot repair nor replace, and this is water. 
 
 But recently, the attitude towards the creek is changing. Over the past few years, there have been several efforts by different groups to "daylight" Islais Creek. The process of [daylighting](http://americanrivers.org/wp-content/uploads/2016/05/AmericanRivers_daylighting-streams-report.pdf), according to [AmericanRivers.org](https://www.americanrivers.org/conservation-resource/daylighting-streams-breathing-life-urban-streams-communities/), "involves uncovering some or all of the previously covered river, stream, or stormwater drainage. Although most stream daylighting involves restoring a stream to a more natural state, other forms include architectural and cultural restoration."
 
@@ -68,11 +74,6 @@ advance understanding of urban water management.
 - Berkeley paper
 
 
-## Climate change/Frankenstein
-
-Some have called climate change one of society's modern-day "Frankenstein's" (Joshua Rothman, *The New Yorker*). Like Frankenstein, climate change was made by and is continually scorned by its creator: the human race. Climate change is easy to ignore... when everything is going fine. But increasing severe weather patterns, expose the incredible, destructive power humans have had on this planet.
-
-Humans, in their widespread geographic locales, collectively contribute to this global problem (though some more than others.) Ironically, there is one element that humans cannot repair nor replace, and this is water. 
 
 
 

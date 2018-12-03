@@ -17,3 +17,43 @@ This blog post builds upon the last to update the reader on the current status o
 
 [Additional info](https://www.eco-business.com/opinion/how-the-urban-nexus-will-make-your-city-more-resource-efficient/)
 
+The movement to daylight Islais Creek echoes broader efforts worldwide to better address the urban resilience, the intersection of human development. 
+
+Talk about green infrastructure
+
+https://sfwater.org/index.aspx?page=667
+
+
+Talk about water… Talk about aquatic/urban nexus…
+
+Removing housing and reintroducing open water into an urban community would require
+community outreach and education to help people appreciate the stream and visualize the potential
+for neighborhood improvement.
+Daylighting Islais Creek for stormwater conveyance would reduce combined sewer
+overflows into San Francisco Bay and the city streets, reduce the threat of flooding, reduce the 
+21
+inflow to wastewater treatment plants, create aquatic habitat, create public recreational space, and
+advance understanding of urban water management. 
+
+- Berkeley paper
+
+
+
+
+
+
+## So, what happens next?
+
+
+[gazetteer](https://pubs.usgs.gov/wsp/0297/report.pdf)
+
+[historic map](http://explore.museumca.org/creeks/1690-SF1869-2007.html)
+
+
+I found Islais Creek back in college when I was obsessed with paddling. At the time, I had my own canoe but wanted to train sprints somewhere where the water was flat. The problem with my relationship with the creek was that like most of the city of San Francisco, I had no idea about the history of the creek and was merely using it for my own selfish purposes. That’s when I became more involved with the volunteer organizations that help keep the creek clean.
+
+Why was there so much interest in preserving this tiny creek? This tiny creek had a massive role in the urban development of San Francisco.
+
+While some political leaders are dragging their feet on climate change policy, some citizens have had enough. The recent [bridge protests in London](https://www.theguardian.com/environment/2018/nov/17/thousands-gather-to-block-london-bridges-in-climate-rebellion) highlight the pressing demands of concerned citizens.
+
+

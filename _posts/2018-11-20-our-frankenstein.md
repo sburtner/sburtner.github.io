@@ -21,9 +21,9 @@ What does it mean for a city to be "resilient"? According to the UN 2017 report,
 
 Water is an important facet of resiliency thinking and planning. Floods account for the most deaths by natural disasters worldwide, and has resulted in an [estimated 6.8 million deaths in the 20th century](http://currents.plos.org/disasters/index.html%3Fp=6695.html). The [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/?menu=1300) include several agendas for directly addressing global issues dealing with water, including clean "water and sanitation" and "life below water."
 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/view_of_SF1_edited.png) | 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/UNSDG.png) | 
 |:--:| 
-| *The view of San Francisco taken from the water.* |
+| *Some of the UN Sustainable Development Goals that specifically mention "water."* |
 
 Progressive cities are taking notice of the increasing costs of flood mitigation, and attempting to make cities more resource efficient.
 

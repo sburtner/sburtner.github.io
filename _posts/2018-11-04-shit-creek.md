@@ -25,8 +25,7 @@ Looking at the creek today, it is difficult to imagine that it was once the prim
 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/gazetteer.png) |
 |:--:|
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/gazetteer_IC.png) | 
-|:--:|
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/gazetteer_IC.png) |
 | *The cover and input for Islais Creek from a historical gazetteer.* |
 
 We often take for granted how fragile and powerful the Earth's water can be, especially when if flows in ways counter to our desires. The hidden portions of Islais Creek creep back into consciousness when they permeate spaces occupied by humans. Islais Creek would often flood the [Balboa High cafeteria](https://www.sfgate.com/homeandgarden/article/S-F-history-lesson-runs-through-Islais-Creek-3176646.php#photo-2312654), which has since been rebuilt. It floods the Alemany Housing Project from time to time. In these instances, the water of Islais Creek challenges its exile, forcing citizens and city planners to recognize its presence. Flooding has a philosphical undercurrent to it. It occurs because water accumulates too quickly in places where it was once contained. We confine water to the prisons of our urban structures, and yet we are the ones punished when it escapes. In some ways, the consequences of urban development and its broader effects on climate change are modern society's Frankenstein.

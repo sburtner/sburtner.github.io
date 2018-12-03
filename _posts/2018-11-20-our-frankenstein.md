@@ -37,13 +37,13 @@ https://sfwater.org/index.aspx?page=667
 > "Removing housing and reintroducing open water into an urban community would require community outreach and education to help people appreciate the stream and visualize the potential for neighborhood improvement. Daylighting Islais Creek for stormwater conveyance would reduce combined sewer overflows into San Francisco Bay and the city streets, reduce the threat of flooding, reduce the 21 inflow to wastewater treatment plants, create aquatic habitat, create public recreational space, and advance understanding of urban water management.
 
 
-## Are we doing enough?
+## Still, can we do more?
 
 GIS (geographic information science, or systems) practitioners often let spatial data types affect our representation of the real world. We count things in points, lines, and polygons, but the world often cannot be reduced to such clear phenomena. Water is a particularly difficult entity to model. Watersheds, rivers and streams, water flow directions, these are all modeled in different ways. But one reoccuring problem is that despite 
 
-Even in the picture at the top of this post, one sees the city and the imagination fires with thoughts of the people, places, and things that make San Francisco so unique. But the water is a part of the city just the same. The boundary of SF is uniquely defined by it's island-like geographic location. Water flows in and out and around the city.
+Even in the picture at the top of this post, one sees the city and the imagination fires with thoughts of the people, places, and things that make San Francisco so unique. But the water is a part of the city just the same. The boundary of SF is uniquely defined by its surrounding water, and yet water flows in, out, and around the city in a constantly churning aquatic system. Those of us who make maps need to remember this. As GIS practioners, we must take on multi-layered approaches to viewing water in all its facets. It is only in this way that we can accurately bring to light how ever-present, how all-powerful, how always-important water is to everything it touches.
 
-As GIS practioners, we must take on multi-layered approaches to viewing water in all its facets. It is only in this way that we can 
+One group in particular is making Islais Creek the focal point of a ginormous project. The topic of the next blog post takes a closer look into the new proposed "Hyper-Creek", and how this affects the daylighting or masking of Islais Creek and the surrounding area.
 
 
 

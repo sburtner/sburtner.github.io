@@ -8,7 +8,7 @@ permalink: /about/
 
 You can spell it Su or Sue, I don't mind either way.
 
-I am currently a PhD student studying Geography at the University of California, Santa Barbara. Before this, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. Before that, I was "master"-ing Urban Spatial Analytics at the University of Pennsylvania. And even before that, I was a squirrelly engineering student at the University of California, Berkeley. Apparently I love school!
+I am currently a PhD student in the Geography department at the University of California, Santa Barbara. Before this, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. Before that, I was "master"-ing Urban Spatial Analytics at the University of Pennsylvania. And even before that, I was a fidgety engineering student at the University of California, Berkeley. Apparently I love school!
 
 **Network science**, **spatial data science**, **geographic information systems**... those are my "things". But I love a lot of other things too, like surfing, paddling, weightlifting, Brazilian jiu jitsu, and my dog, Flower. I am truly a nerd-jock with a perennial identity crisis.
 

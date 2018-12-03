@@ -3,13 +3,15 @@ layout: post
 title:  'The Hyper-Creek (Blog Post #3)'
 ---
 
-What does is mean to daylight a creek? What does it mean for the city?
-
 How will the proposed Hyper-Islais Creek help the city become more resilient to climate change?
 
 <center>
 <iframe width="888" height="500" src="https://www.youtube.com/embed/BVtmxwOPAaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </center>
+
+## Are we doing enough?
+
+While some political leaders are dragging their feet on climate change policy, some citizens have had enough. The recent [bridge protests in London](https://www.theguardian.com/environment/2018/nov/17/thousands-gather-to-block-london-bridges-in-climate-rebellion) highlight the pressing demands of concerned citizens.
 
 When we daylight a creek, we daylight all of the life forms dependent upon and surrounding its existence. By daylighting Islais Creek, we daylight issues of the water-runoff-sewage infrastructure of San Francisco. We daylight issues of drug use and homelessness in the city. We daylight the safety and sustainability of water recreation, tourism, and youth development for residents and non-residents. But we also daylight the active efforts of people like Kayaks Unlimited, Flyaway Productions and the Copra Dock Dances, and all those who have come before. The creek’s history is important to keep in mind even as new efforts are underway to revitalize the area.
 
@@ -48,12 +50,5 @@ advance understanding of urban water management.
 [gazetteer](https://pubs.usgs.gov/wsp/0297/report.pdf)
 
 [historic map](http://explore.museumca.org/creeks/1690-SF1869-2007.html)
-
-
-I found Islais Creek back in college when I was obsessed with paddling. At the time, I had my own canoe but wanted to train sprints somewhere where the water was flat. The problem with my relationship with the creek was that like most of the city of San Francisco, I had no idea about the history of the creek and was merely using it for my own selfish purposes. That’s when I became more involved with the volunteer organizations that help keep the creek clean.
-
-Why was there so much interest in preserving this tiny creek? This tiny creek had a massive role in the urban development of San Francisco.
-
-While some political leaders are dragging their feet on climate change policy, some citizens have had enough. The recent [bridge protests in London](https://www.theguardian.com/environment/2018/nov/17/thousands-gather-to-block-london-bridges-in-climate-rebellion) highlight the pressing demands of concerned citizens.
 
 

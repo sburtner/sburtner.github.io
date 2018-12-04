@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'The Hyper-Creek (Blog Post #3)'
-disqus: true
+comments: true
 ---
 
 How will the proposed Hyper-Islais Creek help the city become more resilient to climate change?

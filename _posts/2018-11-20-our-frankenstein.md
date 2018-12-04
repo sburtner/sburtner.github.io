@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Our Frankenstein (Blog Post #2)'
-disqus: true
+comments: true
 ---
 
 In college I was obsessed with paddling. I would often ditch class if the weather was good to take an outrigger canoe out into the Bay, launching from a boat dock in Alameda. The view of San Francisco from the water is stunning. The city seems to exist as one massive entity, not a collection of a billion moving parts. And yet, the infrastructure of the city is mostly invisible from the water, with the exception of the Bay and Golden Gate bridges, as buildings and houses line the shore and obscure the active city beyond.

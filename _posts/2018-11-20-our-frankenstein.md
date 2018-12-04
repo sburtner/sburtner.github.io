@@ -10,7 +10,7 @@ In college I was obsessed with paddling. I would often ditch class if the weathe
 |:--:| 
 | *The view of San Francisco taken from the water.* |
 
-Of course, it's not always easy to take a picture of the city from the water, because the water in the Bay can be quite tumultuous. A single mariner in a non-motorized boat has to be careful of the undulating waves, large cargo ships, and the occasional curious seal hoping for a rest on a smooth hull. During my college years, I was hoping to find a stretch of water to train sprints on nearby that was flat, smooth, and protected. I pulled up Google Maps one day and didn't find much in the East Bay that I didn't already know about. But upon looking onto the earstern shores of San Francisco, I came across a little channel named "Islais Creek." Intrigued, I drove my car out there a few days later and met with someone from the local paddling group, Kayaks Unlimited. From then on the creek would become an important part of my training, my community outreach, and my relationship to San Francisco.
+Of course, it's not always easy to take a picture of the city from the water, because the water in the Bay can be quite tumultuous. A lone mariner in a non-motorized boat has to be careful of the undulating waves, large cargo ships, and the occasional curious seal hoping for a rest on a smooth hull. During my college years, I was hoping to find a stretch of water to train sprints on nearby that was flat, smooth, and protected. I pulled up Google Maps one day and didn't find much in the East Bay that I didn't already know about. But upon looking onto the earstern shores of San Francisco, I came across a little channel named "Islais Creek." Intrigued, I drove my car out there a few days later and met with someone from the local paddling group, Kayaks Unlimited. From then on the creek would become an important part of my training, my community outreach, and my relationship to San Francisco.
 
 Little did I know that each time I paddled at Islais Creek, I was launching a canoe from diminishing shores and into polluted and unsanitary water, unknowingly skimming the surface of problems surrounding urban development amd climate change. Years later, I reflect upon how my ability to enjoy the waters of the Bay Area may drastically change in the coming years. For me, water is not only a source of life but a source of true joy. Islais Creek features prominently in my nostalgia of San Francisco, yet I have never thought to reflect on its resiliency, its precarious future in the face of climate change. Until now.
 
@@ -23,24 +23,19 @@ Water is an important facet of resiliency thinking and planning. Floods account 
 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/UNSDG.png) | 
 |:--:| 
-| *Some of the UN Sustainable Development Goals that specifically mention "water."* |
+| *Some of the UN Sustainable Development Goals that specifically relate to "water."* |
 
-Progressive cities are taking notice of the increasing costs of flood mitigation, and attempting to make cities more resource efficient.
+Progressive cities are taking notice of the increasing costs of flood and climte change mitigation, and are attempting to make cities more resource efficient. One project, [CRUNCH (Climate Resilient Urban Nexus CHoices)](https://www.eco-business.com/opinion/how-the-urban-nexus-will-make-your-city-more-resource-efficient/), takes an **urban-nexus approach** that treats water, engery, and waste in one interconnected system, rather than independent silos. By doing so, they present evidence that amidst growing population and urban areas, cities can become more competitive by being more energy efficient, resource productive, and healthy: 
 
+> "The visible structure of any city is laid out by its pattern of streets, boulevards, parklands and building blocks, and its network of public spaces, waterfronts, gardens, squares, and infrastructural systems. But much of the infrastructure remains invisible (both actually and metaphorically), underground and out-of-date.
+> Our increasing demand for food, water and energy often exceed the capabilities of any one city, region or government.  A collaborative approach is required to meet these demands and develop better integrated approaches to food, water and energy management."
 
-[According to ], (https://www.eco-business.com/opinion/how-the-urban-nexus-will-make-your-city-more-resource-efficient/)
+So how feasible is it to actually daylight Islais Creek, and would would it involve?
 
-The movement to daylight Islais Creek echoes broader efforts within the Bay and worldwide to better address urban resilience. 
-
-
-Talk about green infrastructure
-
-https://sfwater.org/index.aspx?page=667
-
-So how feasible, from a cost perspective, is it to actually daylight Islais Creek?
-
-A recent study sought to answer this very question, and push for its implentation regardlesss.
+A recent study sought to answer this very question, and push for its implentation.
 > "Removing housing and reintroducing open water into an urban community would require community outreach and education to help people appreciate the stream and visualize the potential for neighborhood improvement. Daylighting Islais Creek for stormwater conveyance would reduce combined sewer overflows into San Francisco Bay and the city streets, reduce the threat of flooding, reduce the 21 inflow to wastewater treatment plants, create aquatic habitat, create public recreational space, and advance understanding of urban water management.
+
+And San Francisco can use other cities as evidence of the success of daylighting. In cities such as [this and that](https://sf.streetsblog.org/2010/04/16/what-can-sf-learn-from-other-cities-urban-water-projects/).
 
 
 ## Still, can we do more?

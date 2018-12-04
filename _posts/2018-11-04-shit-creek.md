@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shit Creek (Blog Post #1)'
-disqus: true
+comments: true
 ---
 
 > "Islais Creek was fed, in part, by a stream that flowed down from the hills by way of what is today Alemany Boulevard. It was in this creek that we boys would catch pollywogs and bring them home, much to the consternation of our mothers. Mothers failed to find the creatures to be an adornment to their households. Today that stream is a busy highway carrying a heavy stream of automotive traffic."

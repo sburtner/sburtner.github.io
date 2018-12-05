@@ -30,7 +30,7 @@ Progressive cities are taking notice of the increasing costs of flood and climte
 > "The visible structure of any city is laid out by its pattern of streets, boulevards, parklands and building blocks, and its network of public spaces, waterfronts, gardens, squares, and infrastructural systems. But much of the infrastructure remains invisible (both actually and metaphorically), underground and out-of-date.
 > Our increasing demand for food, water and energy often exceed the capabilities of any one city, region or government.  A collaborative approach is required to meet these demands and develop better integrated approaches to food, water and energy management."
 >
->  -- *Dr. Steffen Lehmann, in* "How the urban nexus will make your city more resource efficient"
+>  -- *Dr. Steffen Lehmann
 
 Its apparent that daylighting Islais Creek would help increase San Francisco's urban resilience, but how feasible is it to actually do so, and what would it involve?
 

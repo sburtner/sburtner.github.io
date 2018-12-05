@@ -18,6 +18,10 @@ Dr. Grober stated that water science modeling has traditionally centered on **pr
 
 One of these tools is a **decision theater** where multiple parties can meet and use dashboards and visualizations to create shared interpretations of a certain problem. The idea is that if you can show people what you're doing, they are more likely to agree with you, and to act appropriately.
 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pat_grober.png) | 
+|:--:| 
+| *Dr. Patricia Grober gives a talk at UCSB on November 29th, 2018.* |
+
 Within the space of the decision theater, I can imagine that social infrastructure is continually created and reified. But the "social" aspect of social infrastructure is interesting, as it seems that only in its practice is it expressed, but once the affordances of space (physical or virtual) are gone, action becomes individualized and follows its own path. The scientists go back to their labs, the water resource managers go back to their farms. If it is truly to be social, it should be a never-ending process. No wonder climate change is so hard to tackle.
 
 I wanted to use this blog post to write down these thoughts. I think there can be different ways to create social infrastructure in regard to urban resilience. Discourse is always a good starting point. But how do you sustain discourse? How do you make the shared practice of engagement and collaboration resilient? Trust and dependency between all stakeholders is deeply embedded within the answer, but it's not entirely clear how trust among people can be maintained when trust in data is so variable. Stationarity is dead, remember?

@@ -18,7 +18,7 @@ Dr. Grober stated that water science modeling has traditionally centered on **pr
 
 One of these tools is a **decision theater** where multiple parties can meet and use dashboards and visualizations to create shared interpretations of a certain problem. The idea is that if you can show people what you're doing, they are more likely to agree with you, and to act appropriately.
 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pat_grober.png) | 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/pat_grober.JPG) | 
 |:--:| 
 | *Dr. Patricia Grober gives a talk at UCSB on November 29th, 2018.* |
 

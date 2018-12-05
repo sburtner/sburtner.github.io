@@ -4,7 +4,7 @@ title:  'Our Frankenstein (Blog Post #2)'
 comments: true
 ---
 
-In college I was obsessed with paddling. I would often ditch class if the weather was good to take an outrigger canoe out into the Bay, launching from a boat dock in Alameda. The view of San Francisco from the water is stunning. The city seems to exist as one massive entity, not a collection of a billion moving parts. And yet, the infrastructure of the city is mostly invisible from the water, with the exception of the Bay and Golden Gate bridges, as buildings and houses line the shore and obscure the active city beyond.
+In college I was obsessed with paddling. I would often ditch class if the weather was good to take an outrigger canoe out into the Bay, launching from a boat dock in Alameda. The view of San Francisco from the water is stunning. The city seems to exist as one massive entity, not a collection of a billion moving parts. And yet, the infrastructure of the city is mostly invisible from the water, with the exception of the Bay and Golden Gate Bridges, as buildings and houses line the shore and obscure the active city beyond.
 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/view_of_SF1_edited.png) | 
 |:--:| 

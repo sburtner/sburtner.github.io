@@ -29,14 +29,18 @@ Progressive cities are taking notice of the increasing costs of flood and climte
 
 > "The visible structure of any city is laid out by its pattern of streets, boulevards, parklands and building blocks, and its network of public spaces, waterfronts, gardens, squares, and infrastructural systems. But much of the infrastructure remains invisible (both actually and metaphorically), underground and out-of-date.
 > Our increasing demand for food, water and energy often exceed the capabilities of any one city, region or government.  A collaborative approach is required to meet these demands and develop better integrated approaches to food, water and energy management."
+>
+>  -- *Dr. Steffen Lehmann, in* "How the urban nexus will make your city more resource efficient"
 
 Its apparent that daylighting Islais Creek would help increase San Francisco's urban resilience, but how feasible is it to actually do so, and what would it involve?
 
-A [2004 study by UC Berkeley scholars](https://escholarship.org/content/qt8t5919qf/qt8t5919qf.pdf) sought to answer this very question, and highlighted the benefits of daylighting the creek.
-
 ## The feasibility of daylighting Islais Creek
 
+A [2004 study by UC Berkeley scholars](https://escholarship.org/content/qt8t5919qf/qt8t5919qf.pdf) sought to answer this very question, and highlighted the benefits of daylighting the creek.
+
 > "Removing housing and reintroducing open water into an urban community would require community outreach and education to help people appreciate the stream and visualize the potential for neighborhood improvement. Daylighting Islais Creek for stormwater conveyance would reduce combined sewer overflows into San Francisco Bay and the city streets, reduce the threat of flooding, reduce the inflow to wastewater treatment plants, create aquatic habitat, create public recreational space, and advance understanding of urban water management.
+>
+>  -- *Rosey Jencks and Rebecca Leonardson*
 
 And San Francisco can look to other cities as evidence of the success of daylighting. In cities such as [Cheonggyechun, South Korea; Seattle, Washington; Providence, Rhode Island; and Vancouver, Canada](https://sf.streetsblog.org/2010/04/16/what-can-sf-learn-from-other-cities-urban-water-projects/), old train tracks and roads were romved, new riverwalks and bridges were constructed, native plants were reintroduced, and in some cases, habitats were completely restored and animals returned to the area. The [Bernal Heights Nature Walk](https://www.sfgate.com/homeandgarden/article/S-F-history-lesson-runs-through-Islais-Creek-3176646.php#photo-2312654) is further bringing positive attention to Islais Creek, even if the water itself remains hidden. Bonnie Ora Sherk was heavily involved with this project through the San Francisco's Better Streets Program, and was looking for "places where water can be liberated." As reported in S.F. Gate,:
 > "She sees San Francisco's Better Streets Program as a chance to redefine and redesign the city's streets: 'I'd like to see Cesar Chavez Street redesigned as more serpentine to reflect the water underneath. There's no reason a street has to be straight. That's Cartesian old thinking. Solutions will become obvious - the place will tell us what it can be.'"

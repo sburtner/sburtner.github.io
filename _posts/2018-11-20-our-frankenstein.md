@@ -53,7 +53,7 @@ I often think about the ways I can help bring attention to Islais Creek using my
 
 Even in the picture at the top of this post, one sees the city and the imagination fires with thoughts of the people, places, and things that make San Francisco so unique. But the water is a part of the infrastructure of the city just the same. The boundary of SF is uniquely defined by its surrounding water, and yet water flows in, out, and around the city in a constantly churning aquatic system. Those of us who make maps and perform spatial analyses need to remember this. As GIS practioners, we must take on multi-layered approaches to viewing [water in all its facets](https://sburtner.github.io/starterkit/). It is only in this way that we can accurately bring to light how ever-present, how all-powerful, and how immensely important water is to everything it touches.
 
-One group in particular is making Islais Creek the focal point of a monumental project in urban resilience. The topic of the next blog post takes a closer look into the controversial new proposed "Hyper-Creek", and whether or not this intense form of daylighting actually upholds or transforms the Frankenstein-like character of Islais Creek.
+One group in particular is making Islais Creek the focal point of a monumental project in urban resilience. The topic of the next blog post takes a closer look into the controversial new proposed "Hyper-Creek", and whether or not this intense form of daylighting actually transforms or upholds the Frankenstein-like character of Islais Creek.
 
 
 

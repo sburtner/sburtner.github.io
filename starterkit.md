@@ -8,7 +8,7 @@ permalink: /starterkit/
 # Daylighting Islais Creek
 ## A Mapstory
 
-| *History* |
+| *Islais Creek* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png) |
 
@@ -16,9 +16,41 @@ permalink: /starterkit/
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/b_historic_in.png) |
 
-| *History* |
+| *Water* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/c_historic_water.png) |
+
+| *Marsh* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/d_historic_marsh.png) |
+
+| *Roads* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/e_roads_marsh.png) |
+
+| *Highways* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/f_roads_marsh.png) |
+
+| *Bridges* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/g_bridges.png) |
+
+| *Shores* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/h_shore_type.png) |
+
+| *Buildings* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/i_buildings.png) |
+
+| *Urban* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/j_sf_boundary.png) |
+
+| *NEXUS* |
+|:--:| 
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/k_nexus.png) |
 
 
 ## Resources

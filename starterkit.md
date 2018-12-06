@@ -62,7 +62,7 @@ One attempt to address the challenges of climate change at the urban-water nexus
 
 **Layer** | **Date Created or Last Modified** | **Source**
 ------------ | ------------- | -------------
-Historical Map | 1985 (SF), 1986 (San Mateo) | [The National Geological Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+Historical Map | 1895 (SF), 1896 (San Mateo) | [The National Geological Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
 Historical Water & Marsh, Modern Shoreline | 1998 | [San Francisco Estuary Institute](http://www.sfei.org/content/ecoatlas-version-150b4-1998)
 Highways, Bridges | 2017, 2015 | [Caltrans](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/#Highway)
 Roads | 2018 | [Data.Gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-county-san-francisco-county-ca-all-roads-county-based-shapefile)

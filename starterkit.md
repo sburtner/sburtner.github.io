@@ -50,7 +50,6 @@ permalink: /starterkit/
 | *NEXUS* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/k_nexus.png) |
-|:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/animation.gif) |
 
 

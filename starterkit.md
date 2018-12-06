@@ -5,7 +5,7 @@ permalink: /starterkit/
 ---
 
 # Daylighting Islais Creek
-## A Mapstory
+## *A Mapstory*
 
 | *Islais Creek* |
 |:--:| 

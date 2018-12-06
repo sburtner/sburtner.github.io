@@ -54,4 +54,11 @@ permalink: /starterkit/
 
 ## Resources
 
+Layer | Source | Link
+------------ | ------------- | -------------
+Historical Map (1985, 1986) | The National Geological Map Database | https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html
+Historical Water, Marsh | San Francisco Estuary Institute | http://www.sfei.org/content/ecoatlas-version-150b4-1998
+
+
+
 Feel free to check out my GitHub repository with all of the [data layers](https://github.com/sburtner/critical_infrastructure) I use for this project.

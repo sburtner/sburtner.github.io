@@ -7,6 +7,10 @@ permalink: /starterkit/
 # Daylighting Islais Creek
 ## *A Mapstory*
 
+## Description
+
+A map is a resprentation of the real physical world, and it communicates a story through a conscious management of shapes, colors, textures, and layers. My work is a geographic information science approach to **critical infrastructure**, and tries to separate out the "infrastructure" of a city at the **urban-water nexus**. As someone who loves water and the Bay Area, I feature **Islais Creek** in San Francisco, California, as my study area. I choose to layer those traditional infrastructural elements of an urban area such as highways, roads, bridges and buildings with aquatic features such as shoreline, marshes, and rivers. My intent is that the map reader can be reminded of the centrality of water to urban life. Each map layer "**daylights**" some aspect of urban and aquatic infrastructure, and culminates in a series of maps that I call **NEXUS**.
+
 | *Islais Creek* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png) |

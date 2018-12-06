@@ -10,15 +10,15 @@ permalink: /starterkit/
 
 | *History* |
 |:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/a_historic_out.png) |
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png) |
 
 | *History* |
 |:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/b_historic_in.png) |
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/b_historic_in.png) |
 
 | *History* |
 |:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/c_historic_water.png) |
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/c_historic_water.png) |
 
 
 ## Resources

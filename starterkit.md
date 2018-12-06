@@ -4,7 +4,6 @@ title: Starter Kit
 permalink: /starterkit/
 ---
 
-## Starter Kit
 # Daylighting Islais Creek
 ## A Mapstory
 

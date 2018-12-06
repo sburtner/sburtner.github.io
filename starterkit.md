@@ -26,11 +26,11 @@ permalink: /starterkit/
 
 | *Roads* |
 |:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/e_roads_marsh.png) |
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/e_roads.png) |
 
 | *Highways* |
 |:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/f_roads_marsh.png) |
+| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/f_highways.png) |
 
 | *Bridges* |
 |:--:| 

@@ -60,7 +60,7 @@ Historical Map | 1985 (SF), 1986 (San Mateo) | [The National Geological Map Data
 Historical Water & Marsh, Modern Shoreline | 1998 | [San Francisco Estuary Institute](http://www.sfei.org/content/ecoatlas-version-150b4-1998)
 Highways, Bridges | 2017, 2015 | [Caltrans](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/#Highway)
 Roads | 2018 | [Data.Gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-county-san-francisco-county-ca-all-roads-county-based-shapefile)
-Buildings | 2018 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege)
+Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege)
 
 
 Feel free to check out my GitHub repository with all of the [data layers](https://github.com/sburtner/critical_infrastructure) I use for this project.

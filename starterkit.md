@@ -20,7 +20,7 @@ Here at UC Santa Barbara, the research interests vary wildly across human geogra
 
 ## How the Starter Kit was Made
 
-This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcscene.htm), a product from ESRI that allows you to view geographic data layers in 3 dimensions. In a future blog post, I would like to unpack the black box that hides the technical aspects that went into making this project. For now, please enjoy the layers and final product that constitute my Starter Kit: *Daylighting Islais Creek through Maps*.
+This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcscene.htm), a product from ESRI that allows you to view geographic data layers in 3 dimensions. In a future blog post, I would like to unpack the black box that hides the technical aspects that went into making this project (for example, I had a great suggestion to add population data, maybe to the "Urban" map, so that one might see "what's at stake" for the people living in this area.) For now, please enjoy the layers and final product that constitute my Starter Kit: *Daylighting Islais Creek through Maps*.
 
 ## The Startker Kit
 
@@ -60,7 +60,7 @@ This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/l
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/i_buildings.png) |
 
-| *Urban* |
+| *Urban, water* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/j_sf_boundary.png) |
 

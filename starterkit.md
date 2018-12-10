@@ -22,7 +22,7 @@ Here at UC Santa Barbara, the research interests vary wildly across human geogra
 
 This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcscene.htm), a product from ESRI that allows you to view geographic data layers in 3 dimensions. In a future blog post, I would like to unpack the black box that hides the technical aspects that went into making this project (for example, I had a great suggestion to add population data, maybe to the "Urban" map, so that one might see "what's at stake" for the people living in this area.) For now, please enjoy the layers and final product that constitute my Starter Kit: *Daylighting Islais Creek through Maps*.
 
-## The Startker Kit
+# The Startker Kit
 
 | *Islais Creek* |
 |:--:| 

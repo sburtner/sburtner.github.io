@@ -60,7 +60,7 @@ This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/l
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/i_buildings.png) |
 
-| *Urban, water* |
+| *Urban, Water* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/j_sf_boundary.png) |
 

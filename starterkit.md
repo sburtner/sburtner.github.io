@@ -87,7 +87,7 @@ Feel free to check out my GitHub repository with all of the [data layers](https:
 
 And if you'd like more information on Islais Creek and its daylighting journey, please check out my [blog posts](https://sburtner.github.io/)!
 
-*This **Starter Kit** was published December 10th, 2018.*
+*Published on December 10, 2018*
 
 
 

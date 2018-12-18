@@ -28,7 +28,7 @@ This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/l
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png) |
 
-| *Historical Shoreline* |
+| *Historic Shoreline* |
 |:--:| 
 | ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/b_historic_in.png) |
 
@@ -86,6 +86,8 @@ Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Buildin
 Feel free to check out my GitHub repository with all of the [data layers](https://github.com/sburtner/critical_infrastructure) I use for this project.
 
 And if you'd like more information on Islais Creek and its daylighting journey, please check out my [blog posts](https://sburtner.github.io/)!
+
+*This **Starter Kit** was published December 10th, 2018.*
 
 
 

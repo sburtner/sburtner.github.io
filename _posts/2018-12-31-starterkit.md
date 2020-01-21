@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Past Projects
+title: Starter Kit for ENG238, Fall 2018
 comments: true
 ---
 

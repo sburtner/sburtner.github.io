@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Starter Kit
-permalink: /starterkit/
+title: Past Projects
+permalink: /pastprojects/
 ---
 
 # Daylighting Islais Creek through Maps

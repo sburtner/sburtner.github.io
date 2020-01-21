@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Past Projects
-permalink: /pastprojects/
+comments: true
 ---
 
 # Daylighting Islais Creek through Maps

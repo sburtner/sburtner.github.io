@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shit Creek (Blog Post #1)'
+title: 'Shit Creek (Blog Post #1 for ENG238)'
 comments: true
 ---
 

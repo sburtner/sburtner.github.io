@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Our Frankenstein (Blog Post #2 for ENG238)'
+title:  'Our Frankenstein (Blog Post #2 for ENGL238)'
 comments: true
 ---
 

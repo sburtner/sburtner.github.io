@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'The Hyper-Creek (Blog Post #3 for ENG238)'
+title:  'The Hyper-Creek (Blog Post #3 for ENGL238)'
 comments: true
 ---
 

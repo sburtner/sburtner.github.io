@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"Stationarity is Dead" (Blog Post #4 for ENG238)'
+title:  '"Stationarity is Dead" (Blog Post #4 for ENGL238)'
 comments: true
 ---
 

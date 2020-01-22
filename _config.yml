@@ -21,9 +21,9 @@ footer-links:
   email: sab00@ucsb.edu
   facebook:
   flickr:
-  github: sburtner/critical_infrastructure
+  github: https://github.com/sburtner
   instagram:
-  linkedin: www.linkedin.com/in/subu
+  linkedin: https://www.linkedin.com/in/subu/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: subu
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

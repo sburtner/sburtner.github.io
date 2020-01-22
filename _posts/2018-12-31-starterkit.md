@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Starter Kit for ENG238, Fall 2018'
+title: 'Starter Kit for ENGL238, Fall 2018'
 comments: true
 ---
 

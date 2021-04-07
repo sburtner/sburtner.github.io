@@ -15,7 +15,7 @@ I am currently a PhD candidate in the Geography department at the University of 
 
 ## Purpose of this website
 
-I created this website to help document my PhD experience and daylight past and current research. There are tabs for academic and passion projects. In the future, I hope to add a tab for my diversity and inclusion work, which has become an increasingly important part of my departmental and community service.
+I created this website to help document my PhD experience and daylight past and current projects. There are tabs for academic and passion projects. Academic projects include those produced from a university course or through research, while passion projects are those I did in my free time. In the future, I hope to add a tab for my diversity and inclusion work, which has become an increasingly important part of my departmental and community service.
 
 
 ### Contact me

@@ -2,7 +2,6 @@
 layout: post
 title: 'The Cricket Emoji'
 tab: second
-permalink: passion_projects
 comments: true
 ---
 
@@ -20,7 +19,5 @@ I did a few radio, phone and email interviews about the emoji. For some reason, 
 * [BBC News, World Service](https://www.bbc.co.uk/programmes/p058n6sc)
 * [CBC](https://www.cbc.ca/news/canada/british-columbia/cricket-emoji-yohei-rosen-1.4195364)
 * [Maclean's](https://www.macleans.ca/society/technology/how-a-canadian-helped-create-the-new-cricket-emoji/)
-
-*Published on April 6th, 2021*
 
 

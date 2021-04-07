@@ -7,13 +7,13 @@ layout: default
     {% if post.tab == 'second' %}
       <article class="post">
 
-          <h1><a href="{{ site.baseurl }}/passion_projects/{{ post.url }}">{{ post.title }}</a></h1>
+          <h1><a href="{{ site.baseurl }}passion_projects{{ post.url }}">{{ post.title }}</a></h1>
 
           <div class="entry">
            {{ post.excerpt }}
           </div>
 
-          <a href="{{ site.baseurl }}/passion_projects/{{ post.url }}" class="read-more">Read More</a>
+          <a href="{{ site.baseurl }}passion_projects{{ post.url }}" class="read-more">Read More</a>
       </article>
     {% endif %}
   {% endfor %}

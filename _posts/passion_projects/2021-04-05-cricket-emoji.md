@@ -20,6 +20,6 @@ I did a few radio, phone and email interviews about the emoji. For some reason, 
 * [CBC](https://www.cbc.ca/news/canada/british-columbia/cricket-emoji-yohei-rosen-1.4195364)
 * [Maclean's](https://www.macleans.ca/society/technology/how-a-canadian-helped-create-the-new-cricket-emoji/)
 
-*Published April 6th, 2021*
+*Published on April 6th, 2021*
 
 

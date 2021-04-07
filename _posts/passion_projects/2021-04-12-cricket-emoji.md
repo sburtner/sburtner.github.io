@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-| <img src="images/cricket1.png" width="100"> | 
+| <img src="/images/cricket1.png" width="200"> | 
 |:--:| 
 | *The cricket emoji that appears in the proposal.* |
 

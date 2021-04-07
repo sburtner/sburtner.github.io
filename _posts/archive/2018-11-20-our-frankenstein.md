@@ -2,7 +2,7 @@
 layout: post
 title:  'Our Frankenstein (Blog Post #2 for ENGL238)'
 tab: second
-permalink: /second/
+permalink: /passion_projects/
 comments: true
 ---
 

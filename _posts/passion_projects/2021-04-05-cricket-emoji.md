@@ -11,7 +11,7 @@ comments: true
 |:-:|
 |<sub> *The cricket emoji that appears in the original proposal.* </sub>|
 
-In fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (on top of avoiding finishing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world deserved to express awkward silences via text message.
+In the fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (on top of avoiding finishing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world deserved to express awkward silences via text message.
 
 This emoji experience has been wonderful. Not only was it fun to write the [proposal](http://www.unicode.org/L2/L2016/16300-cricket-emoji.pdf) and design the cricket in Adobe Illustrator, but I also used this as an opportunity to learn LaTeX, a [typsetting system](https://www.latex-project.org/) that I have come to love. I have since learned there is a large emoji community, [emojination](http://www.emojination.org/), who have a really active slack channel that helps other emoji enthusiasts get their proposals passed by the Emoji Subcommittee of Unicode.
 

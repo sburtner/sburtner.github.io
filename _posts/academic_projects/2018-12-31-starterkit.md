@@ -85,7 +85,4 @@ Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Buildin
 
 Feel free to check out my GitHub repository with all of the [data layers](https://github.com/sburtner/critical_infrastructure) I use for this project.
 
-*Published on December 10, 2018*
-
-
-
+<br/>

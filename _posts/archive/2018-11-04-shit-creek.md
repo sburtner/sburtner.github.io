@@ -2,7 +2,7 @@
 layout: post
 title: 'Shit Creek (Blog Post #1 for ENGL238)'
 tab: second
-permalink: /second/
+permalink: /passion_projects/
 comments: true
 ---
 

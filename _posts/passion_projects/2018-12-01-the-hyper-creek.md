@@ -2,7 +2,6 @@
 layout: post
 title:  'The Hyper-Creek (Blog Post #3 for ENGL238)'
 tab: second
-permalink: /passion_projects/
 comments: true
 ---
 

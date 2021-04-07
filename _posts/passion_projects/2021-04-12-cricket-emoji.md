@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-| ![Original cricket emoji.](/images/cricket1.png) | 
+| ![Original cricket emoji.](/images/cricket1.png | width=200) | 
 |:--:| 
 | *The cricket emoji that appears in the proposal.* |
 

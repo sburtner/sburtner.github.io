@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Cricket Emoji'
+tab: true
 comments: true
 ---
 

@@ -7,9 +7,8 @@ comments: true
 ---
 
 
-| <img src="/images/cricket1.png" width="200"> | 
-|:--:| 
-| *The cricket emoji that appears in the proposal.* |
+<img src="/images/cricket1.png" width="400">
+*The cricket emoji that appears in the proposal.*
 
 In fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (on top of avoiding finishing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world deserved to express awkward silences via text message.
 

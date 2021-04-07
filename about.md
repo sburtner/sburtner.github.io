@@ -20,7 +20,6 @@ I created this website to help document my PhD experience and daylight past and 
 
 ### Contact me
 
-Please feel free to contact me with any comments, questions or ideas for collaboration.
+Please feel free to contact me with any comments, questions or ideas for collaboration at one of the links below.
 
 
-Email: [sab00@ucsb.edu](mailto:sab00@ucsb.edu)

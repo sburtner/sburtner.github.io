@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  '"Stationarity is Dead" (Blog Post #4 for ENGL238)'
+tab: second
+permalink: /second/
 comments: true
 ---
 

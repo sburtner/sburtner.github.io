@@ -2,6 +2,7 @@
 layout: post
 title: 'Starter Kit for ENGL238, Fall 2018'
 tab: second
+permalink: /second/
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Cricket Emoji'
-permalink: /passion_projects
+permalink: /passion_projects/
 comments: true
 ---
 

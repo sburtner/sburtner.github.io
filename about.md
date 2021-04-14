@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+| <img src="/images/Su_bio_final_fixed.png" width="400"> |
+
 ## Hi, I'm Su!
 
 You can spell it Su or Sue, I don't mind either way.

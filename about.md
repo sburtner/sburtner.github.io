@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-| <img src="/images/Su_bio_final_fixed.jpeg" width="400"> |
+| <img src="/images/Su_bio_final_fixed.jpg" width="400"> |
 
 ## Hi, I'm Su!
 

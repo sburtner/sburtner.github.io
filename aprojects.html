@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Academic Projects</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Su Burtner</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-globe-americas"></span>
+     
+    About
+  </a>
+</li>
+<li>
+  <a href="aprojects.html">
+    <span class="fa fa-university"></span>
+     
+    Academic Projects
+  </a>
+</li>
+<li>
+  <a href="pprojects.html">
+    <span class="fa fa-heart"></span>
+     
+    Passion Projects
+  </a>
+</li>
+<li>
+  <a href="cv.html">
+    <span class="fa fa-list-alt"></span>
+     
+    CV
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:sab00@ucsb.edu">
+    <span class="fa fa-envelope"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/subu/">
+    <span class="fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/sburtner">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Academic Projects</h1>
+
+</div>
+
+
+<div id="research" class="section level2 tabset">
+<h2>Research</h2>
+<div id="covid-19-2021" class="section level3">
+<h3>COVID-19, 2021</h3>
+<div id="covid-19-and-minimizing-micro-spatial-interactions" class="section level4">
+<h4>COVID-19 and Minimizing Micro-Spatial Interactions</h4>
+<div id="abstract" class="section level5">
+<h5>Abstract</h5>
+<p>COVID-19, the novel coronavirus that has disrupted lives around the world, continues to challenge how humans interact in public and shared environments. Repopulating the micro-spatial setting of an office building, with virus spread and transmission mitigation measures, is critical for a return to normalcy. Advice from public health experts, such as maintaining physical distancing from others and well-ventilated spaces, are essential, yet there is a lack of sound guidance on configuring office usage that allows for a safe return of workers. This paper highlights the potential for decision- making and planning insights through location analytics, particularly within an office setting. Proposed is a spatial analytic framework addressing the need for physical distancing and limiting worker interaction, supported by geographic information systems, network science and spatial optimization. The developed modeling approach addresses dispersion of assigned office spaces as well as associated movement within the office environment. This can be used to support the design and utilization of offices in a manner that minimizes the risk of COVID-19 transmission. Our proposed model produces two main findings: 1) that the consideration of minimizing potential interaction as an objective has implications for the safety of work environments and 2) that current social distancing measures may be inadequate within office settings. Our results show that leveraging exploratory spatial data analyses through the integration of geographic information systems, network science and spatial optimization enables the identification of workspace allocation alternatives in support of office repopulation efforts.</p>
+<p>Link to article forthcoming.</p>
+</div>
+</div>
+</div>
+<div id="urban-mobility-2021" class="section level3">
+<h3>Urban Mobility, 2021</h3>
+<div id="urban-mobility-and-segregation-examined-through-networked-travel-activity" class="section level4">
+<h4>Urban Mobility and Segregation Examined through Networked Travel Activity</h4>
+<div id="abstract-1" class="section level5">
+<h5>Abstract</h5>
+<p>Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).</p>
+<p>Link to book chapter <a href="https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml">here</a>.</p>
+</div>
+</div>
+</div>
+<div id="aag-presentation-2017" class="section level3">
+<h3>AAG Presentation, 2017</h3>
+<div id="generating-building-exterior-wall-material-estimates-using-google-street-view-imagery" class="section level4">
+<h4>Generating Building Exterior Wall Material Estimates Using Google Street View Imagery</h4>
+<p>When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for many parts of countries or entire countries, so I decided to explore how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to first test out how to use the Google Street View API to obtain oblique (or street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect “brick” or “no brick”. I did most of my API calls, labeling and automated file organization in Python. I implemented the CNN architecture <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>, modified some parameters and ran the model on an ORNL Linux machine. I would have loved to continue this project, but it originally was just for exploration and I left ORNL a few months later to start my PhD program.</p>
+<center>
+<img src="images/brick.png" width="900">
+</center>
+<center>
+<sub> <em>AAG presentation, 2017.</em> </sub>
+</center>
+<p><br></p>
+<p>You can check out my slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, <a href="https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf">here</a>.</p>
+</div>
+</div>
+<div id="musa-capstone-2015" class="section level3">
+<h3>MUSA Capstone, 2015</h3>
+<div id="using-gis-to-support-in-flight-operations-in-the-event-of-an-airport-outage" class="section level4">
+<h4>Using GIS to Support In-Flight Operations in the Event of an Airport Outage</h4>
+<p>For my master’s of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master’s thesis. My project was titled “Using GIS to Support In-Flight Operations in the Event of an Airport Outage.” My master’s committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors and mentors. An image of the poster I created based on my paper is below.</p>
+<center>
+<img src="images/SusanBurtner_YearEnd_submission.jpg" width="900">
+</center>
+<center>
+<sub> <em>MUSA Capstone project, completed May 2015.</em> </sub>
+</center>
+<p><br></p>
+<p>This work can be seen in the <a href="https://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=309&amp;moduleID=0">Esri Map Book, Volume 31: 168-169, Esri Press</a>.</p>
+</div>
+</div>
+</div>
+<div id="section" class="section level2 unnumbered">
+<h2></h2>
+</div>
+<div id="class-projects" class="section level2 tabset">
+<h2>Class Projects</h2>
+<div id="mat259-2019" class="section level3">
+<h3>MAT259, 2019</h3>
+<p><em>MAT259 was a class on Algorithmic Visualization in the Media Arts and Technology department at the University of California, Santa Barbara. What follows was my final project for the class.</em></p>
+<p><em><strong>Software used</strong>: Processing</em></p>
+<p><br></p>
+<p>Below are links to one of the assignments and the final project:</p>
+<ul>
+<li><a href="https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&amp;t=314">Project 2 - 2D Visualization</a></li>
+<li><a href="https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&amp;t=316">Final Project</a></li>
+</ul>
+<center>
+<img src="images/as2_modified.png" width="400">
+</center>
+<center>
+<img src="images/final_dow_update.png" width="400">
+</center>
+</div>
+<div id="eng238-2018" class="section level3">
+<h3>ENG238, 2018</h3>
+<p><em>English 238 was a class on Critical Infrastructure in the English department at the University of California, Santa Barbara. What follows was my final project for the class.</em></p>
+<p><em><strong>Software used</strong>: ArcMap, ArcScene</em></p>
+<p><br></p>
+<div id="daylighting-islais-creek-through-maps" class="section level4">
+<h4>Daylighting Islais Creek through Maps</h4>
+<div id="introduction" class="section level5">
+<h5>Introduction</h5>
+<p>A map is a representation of the physical world, and it communicates a story through a careful management of shapes, colors, textures and layers. This Starter Kit is a <strong>geographic information science</strong> (a mapping) approach to <strong>critical infrastructure</strong>, and tries to separate out the infrastructural components of a city at the <strong>urban-water nexus</strong>. The urban-water nexus describes the geographic areas at which humans and water interact. Central to this approach is the consideration of <strong>climate change</strong>, and how its increasing variability and unpredictability will affect human life.</p>
+<p>One attempt to address the challenges of climate change at the urban-water nexus is to revitalize more sustainable practices in water management. Decades of urban development have redirected many creeks, rivers, and streams to underground culverts, which sometimes results in flooding and destruction when capacity is reached. “<strong>Daylighting</strong>” these water bodies allows them to follow more of their natural flow and makes them less prone to flooding. The technique is increasing in popularity as the urgency to address climate change intensifies, and can involve cultural restoration too. As someone who loves water and the Bay Area, I feature <strong>Islais Creek</strong> in San Francisco, California, as my area of interest to daylight. I choose to layer those traditional infrastructural elements of an urban environment such as highways, roads, bridges, and buildings with aquatic features such as shoreline, marshes, and rivers. Each map layer “daylights” some aspect of urban and aquatic infrastructure across time and space, and culminates in a series of maps that I call <strong>NEXUS</strong>. In NEXUS, one can see all of the urban structures of a city, but where there is water, I leave the historical map of Islais Creek, so that the map reader can be reminded of the centrality of water to urban life.</p>
+</div>
+<div id="situating-this-work-within-geography" class="section level5">
+<h5>Situating this Work within Geography</h5>
+<p>Geography is an incredibly diverse and broad field. While a <a href="https://en.oxforddictionaries.com/definition/geography">general definition</a> of geography might be “the study of the physical features of the earth and its atmosphere” as well as the “human activity as it affects and is affected by these”, I would describe the field of geography as encompassing any theoretical development or empirical research that privileges a perspective of “space” and “place.” If you are exploring how the location of a phenomenon affects the nature of the phenomenon, you are doing geographic research!</p>
+<p>Here at UC Santa Barbara, geographic research interests vary wildly across human geography, physical and atmospheric sciences, climate change and variability, space/time knowledge and organization, and geographic information systems (GIS). While I work in the realm of networks of human activity, I have extensive experience in geographic information systems. GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek through a GIS.</p>
+</div>
+<div id="how-the-starter-kit-was-made" class="section level5">
+<h5>How the Starter Kit was Made</h5>
+<p>This Starter Kit was made using <a href="http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcscene.htm">ArcScene</a>, a product from ESRI that allows one to view geographic data layers in 3 dimensions. In a future blog post, I would like to unpack the black box that hides the technical aspects that went into making this project (for example, I had a great suggestion to add population data, maybe to the “Urban” map, so that one might see “what’s at stake” for the people living in this area.) For now, please enjoy the layers and final product that constitute my Starter Kit: <em>Daylighting Islais Creek through Maps</em>.</p>
+</div>
+<div id="the-starter-kit" class="section level5">
+<h5>The Starter Kit</h5>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Islais Creek</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Historic Shoreline</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/b_historic_in.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Water</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/c_historic_water.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Marsh</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/d_historic_marsh.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Roads</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/e_roads.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Highways</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/f_highways.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Bridges</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/g_bridges.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Modern Shoreline</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/h_shore_type.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Buildings</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/i_buildings.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>Urban, Water</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/j_sf_boundary.png" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="center"><em>NEXUS</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/k_nexus.png" alt="Islais Creek" /></td>
+</tr>
+<tr class="even">
+<td align="center"><img src="https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/animation.gif" alt="Islais Creek" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="resources" class="section level5">
+<h5>Resources</h5>
+<table>
+<colgroup>
+<col width="31%" />
+<col width="34%" />
+<col width="34%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Layer</strong></th>
+<th><strong>Date Created or Last Modified</strong></th>
+<th><strong>Source</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Historical Map</td>
+<td>1895 (SF), 1896 (San Mateo)</td>
+<td><a href="https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html">The National Geological Map Database</a></td>
+</tr>
+<tr class="even">
+<td>Historical Water &amp; Marsh, Modern Shoreline</td>
+<td>1998</td>
+<td><a href="http://www.sfei.org/content/ecoatlas-version-150b4-1998">San Francisco Estuary Institute</a></td>
+</tr>
+<tr class="odd">
+<td>Highways, Bridges</td>
+<td>2017, 2015</td>
+<td><a href="http://www.dot.ca.gov/hq/tsip/gis/datalibrary/#Highway">Caltrans</a></td>
+</tr>
+<tr class="even">
+<td>Roads</td>
+<td>2018</td>
+<td><a href="https://catalog.data.gov/dataset/tiger-line-shapefile-2017-county-san-francisco-county-ca-all-roads-county-based-shapefile">Data.Gov</a></td>
+</tr>
+<tr class="odd">
+<td>Buildings</td>
+<td>2017</td>
+<td><a href="https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege">DataSF</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="section-1" class="section level2 unnumbered">
+<h2></h2>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

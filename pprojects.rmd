@@ -1,0 +1,36 @@
+---
+#layout: post
+title: 'Passion Projects and Service'
+#tab: second
+#permalink: /passion_projects/
+#comments: true
+---
+## {.tabset}
+
+### Social Equity and Justice
+
+Throughout 2020, I found myself increasingly distraght by the racial injustices experiencd by Black and African American individuals, not just by police but other citizens, in the United States. Having been in a university department for 3 years at tat point, I had convinved myself that the advice I heard all around me, that "you should just concentrate on school," was irresponsible. So, I embarked more earnestly, on educating myself, listening, joining groups that enage in . I admit that my acquisition of knowledge has percolated in an academic context, but I recognize the vast amount of activism work that happens outside these walls. I also do not view this education in equity and social justice as elective work, but necessary work (after all, if we recognize that systemic racism exists, yet we do nothing about it, we are all complicit in its perpetuation). Half of the battle to implement anti-racist policies and changing the culture of the groups we find ourselves in is convincing folks that racism exists, it is systemic, it undergirds all of our instistutional structures, personal interactions, and pathways for social and professional mobility. The objective of the groups I have joined are to dismantle...
+
+* [Geography Diversity, Equity, and Inclusion Working Group](https://www.geog.ucsb.edu/about/equity-diversity-inclusion)
+* [CITRAL Community of Practice](https://www.citral.ucsb.edu/innovations), Course Design for Equity
+
+### The Cricket Emoji
+
+<center><img src="images/cricket1.png" width="400"></center>
+<center><sub> *The original design of the cricket emoji.* </sub></center>
+
+<br>
+
+In the fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (in addition to avoiding completing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world deserved to better express awkward silences via text message.
+
+This emoji experience has been wonderful. Not only was it fun to write the [proposal](http://www.unicode.org/L2/L2016/16300-cricket-emoji.pdf) and design the cricket in Adobe Illustrator, but I also used this as an opportunity to learn LaTeX, a [typsetting system](https://www.latex-project.org/) that I have come to love. I have since learned there is a large emoji community, [emojination](http://www.emojination.org/), who have a really active slack channel that helps other emoji enthusiasts get their proposals passed by the Emoji Subcommittee of Unicode.
+
+I did a few radio, phone, and email interviews about the emoji, see below:
+
+* [BBC News, World Service](https://www.bbc.co.uk/programmes/p058n6sc)
+* [CBC](https://www.cbc.ca/news/canada/british-columbia/cricket-emoji-yohei-rosen-1.4195364)
+* [Maclean's](https://www.macleans.ca/society/technology/how-a-canadian-helped-create-the-new-cricket-emoji/)
+
+
+
+## {-}

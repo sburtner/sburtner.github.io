@@ -1,0 +1,27 @@
+name: "su_website"
+output_dir: "."
+navbar:
+  title: "Su Burtner"
+  left:
+    - text: "About"
+      icon: fa-globe-americas
+      href: index.html
+    - text: "Academic Projects"
+      icon: fa-university
+      href: aprojects.html
+    - text: "Passion Projects"
+      icon: fa-heart
+      href: pprojects.html
+    - text: "CV"
+      icon: fa-list-alt
+      href: cv.html
+  right:
+    - icon: fa-envelope
+      href: mailto:sab00@ucsb.edu
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/subu/
+    - icon: fa-github
+      href: https://github.com/sburtner
+output:
+  html_document:
+    theme: cosmo

@@ -1,7 +1,7 @@
 name: "su_website"
 output_dir: "."
 navbar:
-  title: "Su Burtner"
+  title: Susan Burtner
   left:
     - text: "About"
       icon: fa-globe-americas
@@ -22,6 +22,7 @@ navbar:
       href: https://www.linkedin.com/in/subu/
     - icon: fa-github
       href: https://github.com/sburtner
+  logo: https://github.com/sburtner/critical_infrastructure/blob/568b91b7d357e378e4864beedea675b535b48065/images/IC_crane.png
 output:
   html_document:
     theme: cosmo

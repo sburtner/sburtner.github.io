@@ -69,11 +69,12 @@ This work can be seen in the [Esri Map Book, Volume 31: 168-169, Esri Press](htt
 Below are links to one of the assignments and the final project:
 
 * [Project 2 - 2D Visualization](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&t=314)
+
+<center><img src="images/as2_modifed.png" width="600"></center>
+
 * [Final Project](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&t=316)
 
-<center><img src="images/as2_modified.png" width="400"></center>
-
-<center><img src="images/final_dow_update.png" width="400"></center>
+<center><img src="images/final_dow_update.png" width="600"></center>
 
 
 ### ENG238, 2018

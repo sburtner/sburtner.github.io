@@ -12,11 +12,11 @@ You can spell my name Su or Sue, I don't mind either way.
 
 I am currently a PhD candidate in the Geography department at the University of California, Santa Barbara. Before this, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. Before that, I was "master"-ing urban spatial analytics at the University of Pennsylvania. And even before that, I was studying operations research and management science at the University of California, Berkeley. I hail from the Sacramento area, specifically the city of Elk Grove, California, and have a deep love and appreciation for the entire northern California region.
 
-**Network science**, **spatial data science**, **spatial optimization**, **geographic information science**, ... these are my things, and I am particularly interested in applying quantitative and computational methods in social science and public health contexts (see my [CV](/cv.html)). But I enjoy a lot of other things too, like surfing, paddling (outrigger canoe and dragonboat), Olympic weightlifting, Brazilian jiu jitsu, and visiting breweries with my dog Flower. I strongly believe in having an identity outside of work, but thankfully I am passionate about that as well.
+**Network science**, **spatial data science**, **spatial optimization**, **geographic information science**, ... these are my things, and I am particularly interested in applying quantitative and computational methods in social science and public health contexts (see my [CV](cv.html)). But I enjoy a lot of other things too, like surfing, paddling (outrigger canoe and dragonboat), Olympic weightlifting, Brazilian jiu jitsu, and visiting breweries with my dog Flower. I strongly believe in having an identity outside of work, but thankfully I am passionate about that as well.
 
 ### Purpose of this website
 
-I created this website to help document my PhD experience and daylight past and current projects. There are tabs for academic and passion projects. [Academic projects](/aprojects.html) include those produced from a university course or through research, while [passion projects](/pprojects.html) are those conducted in my free time or through university or community service.
+I created this website to help document my PhD experience and daylight past and current projects. There are tabs for academic and passion projects. [Academic projects](aprojects.html) include those produced from a university course or through research, while [passion projects](pprojects.html) are those conducted in my free time or through university or community service.
 
 ### Contact
 

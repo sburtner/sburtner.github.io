@@ -6,4 +6,4 @@ title: "Curriculum Vitae"
 
 <br>
 
-<center><img src="https://nbviewer.org/github/sburtner/sburtner.github.io/blob/14840bb9f489876432c1fb6c11a824cb1cb60db1/images/SusanBurtner_CV_Nov21.pdf"></center>
+<center><object data="images/SusanBurtner_CV_Nov21.pdf" width="1000" height="1000" type="application/pdf"></object></center>

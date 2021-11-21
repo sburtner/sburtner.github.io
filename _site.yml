@@ -8,10 +8,10 @@ navbar:
       href: index.html
     - text: "Research"
       icon: fa-university
-      href: aprojects.html
+      href: research.html
     - text: "Passion Projects"
       icon: fa-heart
-      href: pprojects.html
+      href: passion_projects.html
     - text: "CV"
       icon: fa-list-alt
       href: cv.html

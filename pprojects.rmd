@@ -19,6 +19,8 @@ Two groups have been paramount to my work in this space, the first being my depa
 
 ## UC Placemaking Initiative
 
+### The UC Placemaking Initiative
+
 *__Software used__*: R / RStudio, Leaflet, JavaScript, HTML, CSS
 
 <br>
@@ -156,6 +158,8 @@ Roads | 2018 | [Data.Gov](https://catalog.data.gov/dataset/tiger-line-shapefile-
 Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege)
 
 
+
+## The Cricket Emoji
 
 ## The Cricket Emoji
 

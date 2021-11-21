@@ -1,34 +1,61 @@
 ---
-title: "Academic Projects"
+title: "Research"
 ---
 
-## Research {.tabset}
+# {.tabset}
 
-### COVID-19, 2021
+## COVID-19, 2021
 
-#### COVID-19 and Minimizing Micro-Spatial Interactions
+### COVID-19 and Minimizing Micro-Spatial Interactions
 
-##### Abstract
+#### Abstract
 
 COVID-19, the novel coronavirus that has disrupted lives around the world, continues to challenge how humans interact in public and shared environments. Repopulating the micro-spatial setting of an office building, with virus spread and transmission mitigation measures, is critical for a return to normalcy. Advice from public health experts, such as maintaining physical distancing from others and well-ventilated spaces, are essential, yet there is a lack of sound guidance on configuring office usage that allows for a safe return of workers. This paper highlights the potential for decision- making and planning insights through location analytics, particularly within an office setting. Proposed is a spatial analytic framework addressing the need for physical distancing and limiting worker interaction, supported by geographic information systems, network science and spatial optimization. The developed modeling approach addresses dispersion of assigned office spaces as well as associated movement within the office environment. This can be used to support the design and utilization of offices in a manner that minimizes the risk of COVID-19 transmission. Our proposed model produces two main findings: 1) that the consideration of minimizing potential interaction as an objective has implications for the safety of work environments and 2) that current social distancing measures may be inadequate within office settings. Our results show that leveraging exploratory spatial data analyses through the integration of geographic information systems, network science and spatial optimization enables the identification of workspace allocation alternatives in support of office repopulation efforts.
 
 Link to article forthcoming.
 
 
-### Urban Mobility, 2021
+## Urban Mobility, 2021
 
-#### Urban Mobility and Segregation Examined through Networked Travel Activity
+### Urban Mobility and Segregation Examined through Networked Travel Activity
 
-##### Abstract
+#### Abstract
 
 Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).
 
 Link to book chapter [here](https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml).
 
 
-### AAG Presentation, 2017
+## WE1S, 2020
 
-#### Generating Building Exterior Wall Material Estimates Using Google Street View Imagery
+### The WhatEvery1Says Project
+
+I was fortunate enough to serve as a research assistant on the WhatEvery1Says project (WE1S) from 2018 to 2020. The project used digital humanities methods to study media discourse about the humanities through large corpora of varying authorship:
+
+> The project concentrates on, but is not limited to, journalistic articles in the U.S. available in digital textual form beginning circa 1981. Other materials include social media.
+Our hypothesis is that digital methods can help us learn new things about how the humanities have been portrayed in public discourse. For example, are there sub-themes beneath the familiar dominant clichés and memes? Are there hidden connections or mismatches between the “frames” (premises, metaphors, and narratives) of those arguing for and against the humanities? Where do the humanities fit among other topics in public discussion? How do different sources (for example, mainstream versus student newspapers) or different parts of the nation or world compare in the way they talk about the humanities? And in what way—if to any significant degree at all—does the media position racial, ethnic, gender, first-generation student and other social groups in relation to the humanities?
+
+I primarily worked on the Social Groups team, which explored themes related to race, gender, sexuality, and first-generation to college status. I not only worked in the topic models synthesizing results, but I leveraged my experience programming and making maps to create several visualizaions (see below) and explore additional methods, such as word embeddings (vectorized forms of words), to enhance our understanding of word similarity and the significance of who says what "where." A detailed summary of our results can be found [here](https://we1s.ucsb.edu/).
+
+<br>
+
+<center><img src="images/topic-bubble-1bc-250-38.png" width="800"></center>
+<center><sub> *A screenshot of the topic bubble visualization used to study topics.* </sub></center>
+
+<br>
+
+<center><img src="images/identity_network2.png" width="600"></center>
+<center><sub> *Semantic network of key terms and the topics, identified by number, that they are in.* </sub></center>
+
+<br>
+
+<center><img src="images/race_dot_density_map.png" width="900"></center>
+<center><sub> *Race dot density map.* </sub></center>
+
+
+## AAG Presentation, 2017
+
+### Generating Building Exterior Wall Material Estimates Using Google Street View Imagery
 
 When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for many parts of countries or entire countries, so I decided to explore how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to first test out how to use the Google Street View API to obtain oblique (or street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect "brick" or "no brick". I did most of my API calls, labeling and automated file organization in Python. I implemented the CNN architecture [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), modified some parameters and ran the model on an ORNL Linux machine. I would have loved to continue this project, but it originally was just for exploration and I left ORNL a few months later to start my PhD program.
 
@@ -37,12 +64,12 @@ When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with po
 
 <br>
 
-You can check out my slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, [here](https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf).
+Link to the slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, [here](https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf).
 
 
-### MUSA Capstone, 2015
+## MUSA Capstone, 2015
 
-#### Using GIS to Support In-Flight Operations in the Event of an Airport Outage
+### Using GIS to Support In-Flight Operations in the Event of an Airport Outage
 
 For my master's of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master's thesis. My project was titled "Using GIS to Support In-Flight Operations in the Event of an Airport Outage." My master's committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors and mentors. An image of the poster I created based on my paper is below.
 
@@ -53,113 +80,6 @@ For my master's of urban spatial analytics degree (MUSA), I had to complete a ca
 
 This work can be seen in the [Esri Map Book, Volume 31: 168-169, Esri Press](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=309&moduleID=0).
 
-## {-}
 
-
-## Class Projects{.tabset}
-
-### MAT259, 2019
-
-*MAT259 was a class on Algorithmic Visualization in the Media Arts and Technology department at the University of California, Santa Barbara. What follows was my final project for the class.*
-
-*__Software used__: Processing*
-
-<br>
-
-Below are links to one of the assignments and the final project:
-
-* [Project 2 - 2D Visualization](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&t=314)
-
-<center><img src="images/as2_modifed.png" width="600"></center>
-
-* [Final Project](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&t=316)
-
-<center><img src="images/final_dow_update.png" width="600"></center>
-
-
-### ENG238, 2018
-
-*English 238 was a class on Critical Infrastructure in the English department at the University of California, Santa Barbara. What follows was my final project for the class.*
-
-*__Software used__: ArcMap, ArcScene*
-
-<br>
-
-#### Daylighting Islais Creek through Maps
-
-##### Introduction
-
-A map is a representation of the physical world, and it communicates a story through a careful management of shapes, colors, textures and layers. This Starter Kit is a **geographic information science** (a mapping) approach to **critical infrastructure**, and tries to separate out the infrastructural components of a city at the **urban-water nexus**. The urban-water nexus describes the geographic areas at which humans and water interact. Central to this approach is the consideration of **climate change**, and how its increasing variability and unpredictability will affect human life.
-
-One attempt to address the challenges of climate change at the urban-water nexus is to revitalize more sustainable practices in water management. Decades of urban development have redirected many creeks, rivers, and streams to underground culverts, which sometimes results in flooding and destruction when capacity is reached. "**Daylighting**" these water bodies allows them to follow more of their natural flow and makes them less prone to flooding. The technique is increasing in popularity as the urgency to address climate change intensifies, and can involve cultural restoration too. As someone who loves water and the Bay Area, I feature **Islais Creek** in San Francisco, California, as my area of interest to daylight. I choose to layer those traditional infrastructural elements of an urban environment such as highways, roads, bridges, and buildings with aquatic features such as shoreline, marshes, and rivers. Each map layer "daylights" some aspect of urban and aquatic infrastructure across time and space, and culminates in a series of maps that I call **NEXUS**. In NEXUS, one can see all of the urban structures of a city, but where there is water, I leave the historical map of Islais Creek, so that the map reader can be reminded of the centrality of water to urban life.
-
-##### Situating this Work within Geography
-
-Geography is an incredibly diverse and broad field. While a [general definition](https://en.oxforddictionaries.com/definition/geography) of geography might be "the study of the physical features of the earth and its atmosphere" as well as the "human activity as it affects and is affected by these", I would describe the field of geography as encompassing any theoretical development or empirical research that privileges a perspective of "space" and "place." If you are exploring how the location of a phenomenon affects the nature of the phenomenon, you are doing geographic research!
-
-Here at UC Santa Barbara, geographic research interests vary wildly across human geography, physical and atmospheric sciences, climate change and variability, space/time knowledge and organization, and geographic information systems (GIS). While I work in the realm of networks of human activity, I have extensive experience in geographic information systems. GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek through a GIS.
-
-##### How the Starter Kit was Made
-
-This Starter Kit was made using [ArcScene](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcscene.htm), a product from ESRI that allows one to view geographic data layers in 3 dimensions. In a future blog post, I would like to unpack the black box that hides the technical aspects that went into making this project (for example, I had a great suggestion to add population data, maybe to the "Urban" map, so that one might see "what's at stake" for the people living in this area.) For now, please enjoy the layers and final product that constitute my Starter Kit: *Daylighting Islais Creek through Maps*.
-
-##### The Starter Kit
-
-| *Islais Creek* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/a_historic_out.png) |
-
-| *Historic Shoreline* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/b_historic_in.png) |
-
-| *Water* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/c_historic_water.png) |
-
-| *Marsh* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/d_historic_marsh.png) |
-
-| *Roads* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/e_roads.png) |
-
-| *Highways* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/f_highways.png) |
-
-| *Bridges* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/g_bridges.png) |
-
-| *Modern Shoreline* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/h_shore_type.png) |
-
-| *Buildings* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/i_buildings.png) |
-
-| *Urban, Water* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/j_sf_boundary.png) |
-
-| *NEXUS* |
-|:--:| 
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/k_nexus.png) |
-| ![Islais Creek](https://raw.githubusercontent.com/sburtner/critical_infrastructure/master/images/outputs/animation.gif) |
-
-
-##### Resources
-
-**Layer** | **Date Created or Last Modified** | **Source**
------------- | ------------- | -------------
-Historical Map | 1895 (SF), 1896 (San Mateo) | [The National Geological Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
-Historical Water & Marsh, Modern Shoreline | 1998 | [San Francisco Estuary Institute](http://www.sfei.org/content/ecoatlas-version-150b4-1998)
-Highways, Bridges | 2017, 2015 | [Caltrans](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/#Highway)
-Roads | 2018 | [Data.Gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-county-san-francisco-county-ca-all-roads-county-based-shapefile)
-Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege)
-
-## {-}
+# {-}
 

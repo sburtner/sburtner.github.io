@@ -1,12 +1,12 @@
 name: "su_website"
 output_dir: "."
 navbar:
-  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"https://github.com/sburtner/critical_infrastructure/blob/568b91b7d357e378e4864beedea675b535b48065/images/IC_crane.png\" />"
+  title: "Susan Burtner <img id=\"logo\" style=\"width: 35px;\" src=\"images/IC_crane_black.png\" align=\"left\" />"
   left:
     - text: "About"
       icon: fa-globe-americas
       href: index.html
-    - text: "Academic Projects"
+    - text: "Research"
       icon: fa-university
       href: aprojects.html
     - text: "Passion Projects"

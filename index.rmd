@@ -16,7 +16,7 @@ I am currently a PhD candidate in the Geography department at the University of 
 
 ### Purpose of this website
 
-I created this website to help document my PhD experience and daylight past and current projects. There are tabs for academic and passion projects. The [Research](aprojects.html) includes projects produced through research, while [passion projects](pprojects.html) are those pulled from coursework, conducted in my free time, or through university, departmental, or community service. This website is not an exhaustive collection of everything I have ever done, and updates will happen haphazardly.
+I created this website to help document my PhD experience and daylight past and current projects. There are tabs for academic and passion projects. The [research](research.html) tab highlights projects produced through research, while [passion projects](passion_projects.html) highlights those from coursework, through university, departmental, or community service, or conducted in my free time. This website is not an exhaustive collection of everything I have ever done, and updates will happen haphazardly.
 
 ### Contact
 

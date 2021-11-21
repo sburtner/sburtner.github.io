@@ -161,7 +161,7 @@ Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Buildin
 
 ## The Cricket Emoji
 
-## The Cricket Emoji
+### The Cricket Emoji
 
 *__Software used__: Adobe Illustrator, LaTeX*
 

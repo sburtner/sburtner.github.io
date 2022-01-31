@@ -48,7 +48,7 @@ I primarily worked on the Social Groups team, which explored themes related to r
 
 <br>
 
-<center><iframe src="we1s/webmap.html" title="WE1S Map" width="90%" height="500"></iframe></center>
+<center><iframe src="we1s/webmap.html" title="WE1S Map" width="800" height="500"></iframe></center>
 <center><sub> *A racial dot density map overlaid by the locations of HSIs, HBCUs, women's colleges and universities, and tribal colleges.* </sub></center>
 
 

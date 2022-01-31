@@ -36,7 +36,7 @@ Link to book chapter [here](https://www.elgaronline.com/view/edcoll/978178811470
 
 ### Spatial Optimization for Planning and Decision-making
 
-Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the 2021 Spatial Data Science Symposium, held virtually and organized by some wonderful folks in my department's Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on "Spatial Optimization for Planning and Decision-Making," a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)
+Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the [2021 Spatial Data Science Symposium](http://wp1066709.server-he.de/sdss2021/), held virtually and organized by some wonderful folks in my department's Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on "Spatial Optimization for Planning and Decision-Making," a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)
 
 <br>
 

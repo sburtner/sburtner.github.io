@@ -48,11 +48,11 @@ I joined the UC Davis Placemaking team to help create a map of all of the initia
 
 Having advanced to candidacy and hardly engaging in formal coursework, I felt the need to maintain my knowledge and skills in machine learning. I decided to take on Kaggle's 30 Days of Machine Learning (ML) challenge, and despite not being able to do it in the designated 30 days, I was able to complete the tutorials for the challenge later during my winter break. I really enjoyed the tutorials and look forward to doing more Kaggle competitions in the future! My silly certificates are below.
 
-<center><object data="images/subuntu - Intermediate Machine Learning.png" width="600" height="370" type="application/pdf"></object></center>
+<center><object data="images/subuntu - Intermediate Machine Learning.png" width="1200" height="740" type="application/pdf"></object></center>
 
-<center><object data="images/subuntu - Intermediate Machine Learning.png" width="600" height="370" type="application/pdf"></object></center>
+<center><object data="images/subuntu - Intermediate Machine Learning.png" width="1200" height="740" type="application/pdf"></object></center>
 
-<center><object data="images/subuntu - Python.png" width="600" height="370" type="application/pdf"></object></center>
+<center><object data="images/subuntu - Python.png" width="1200" height="740" type="application/pdf"></object></center>
 
 
 

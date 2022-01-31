@@ -41,7 +41,7 @@ I joined the UC Davis Placemaking team to help create a map of all of the initia
 
 ### Algorithmic Visualization Projects
 
-*__Software used__: Processing*
+*__Software used__: Processing, SQL*
 
 <br>
 
@@ -64,7 +64,7 @@ MAT259 is a class on Algorithmic Visualization in the Media Arts and Technology 
 
 <br>
 
-SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of a few course requirements for my Network Science and Big Data NSF Fellowship, and I enjoyed being able to explore the health outcomes of individuals in varying types of sexual activity networks with my peer and fellow award recipient, Vania Wang, who helped created the final project below.
+SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of a few course requirements for my Network Science and Big Data NSF Fellowship, and I learned a lot exploring the health outcomes of individuals in varying types of sexual activity networks with my peer and fellow award recipient, Vania Wang, who helped created the final project below.
 
 <br>
 
@@ -85,15 +85,15 @@ English 238 is a class on Critical Infrastructure in the English department at t
 
 ### Daylighting Islais Creek through Maps
 
-A map is a representation of the physical world, and it communicates a story through a careful management of shapes, colors, textures and layers. This Starter Kit is a **geographic information science** (a mapping) approach to **critical infrastructure**, and tries to separate out the infrastructural components of a city at the **urban-water nexus**. The urban-water nexus describes the geographic areas at which humans and water interact. Central to this approach is the consideration of **climate change**, and how its increasing variability and unpredictability will affect human life.
+A map is a representation of the physical world, and it communicates a story through a careful management of shapes, colors, textures, and layers. This Starter Kit is a **geographic information science** (a mapping) approach to **critical infrastructure**, and tries to separate out the infrastructural components of a city at the **urban-water nexus**. The urban-water nexus describes the geographic areas at which humans and water interact. Central to this approach is the consideration of **climate change**, and how its increasing variability and unpredictability will affect human life.
 
 One attempt to address the challenges of climate change at the urban-water nexus is to revitalize more sustainable practices in water management. Decades of urban development have redirected many creeks, rivers, and streams to underground culverts, which sometimes results in flooding and destruction when capacity is reached. "**Daylighting**" these water bodies allows them to follow more of their natural flow and makes them less prone to flooding. The technique is increasing in popularity as the urgency to address climate change intensifies, and can involve cultural restoration too. As someone who loves water and the Bay Area, I feature **Islais Creek** in San Francisco, California, as my area of interest to daylight. I choose to layer those traditional infrastructural elements of an urban environment such as highways, roads, bridges, and buildings with aquatic features such as shoreline, marshes, and rivers. Each map layer "daylights" some aspect of urban and aquatic infrastructure across time and space, and culminates in a series of maps that I call **NEXUS**. In NEXUS, one can see all of the urban structures of a city, but where there is water, I leave the historical map of Islais Creek, so that the map reader can be reminded of the centrality of water to urban life.
 
 #### Situating this Work within Geography
 
-Geography is an incredibly diverse and broad field. While a [general definition](https://en.oxforddictionaries.com/definition/geography) of geography might be "the study of the physical features of the earth and its atmosphere" as well as the "human activity as it affects and is affected by these", I would describe the field of geography as encompassing any theoretical development or empirical research that privileges a perspective of "space" and "place." If you are exploring how the location of a phenomenon affects the nature of the phenomenon, you are doing geographic research!
+Geography is an incredibly diverse and broad field. While a [general definition](https://en.oxforddictionaries.com/definition/geography) of geography might be "the study of the physical features of the earth and its atmosphere" as well as the "human activity as it affects and is affected by these," I would describe the field of geography as encompassing any theoretical development or empirical research that privileges a perspective of "space" and "place." If you are exploring how the location of a phenomenon affects the nature of the phenomenon, you are doing geographic research!
 
-Here at UC Santa Barbara, geographic research interests vary wildly across human geography, physical and atmospheric sciences, climate change and variability, space/time knowledge and organization, and geographic information systems (GIS). While I work in the realm of networks of human activity, I have extensive experience in geographic information systems. GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek, through a GIS.
+Here at UC Santa Barbara, geographic research interests vary wildly across human geography, physical and atmospheric sciences, climate change and variability, space/time knowledge and organization, and geographic information systems (GIS). While I work in the realm of networks of human activity, I have extensive experience in geographic information systems. A GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek, through a GIS.
 
 #### How the Starter Kit was Made
 

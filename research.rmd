@@ -15,6 +15,7 @@ COVID-19, the novel coronavirus that has disrupted lives around the world, conti
 Link to article [here](https://dl.acm.org/doi/10.1145/3486970).
 
 
+
 ## Urban Mobility, 2021
 
 ### Urban Mobility and Segregation Examined through Networked Travel Activity
@@ -24,6 +25,24 @@ Link to article [here](https://dl.acm.org/doi/10.1145/3486970).
 Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social, and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work, and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).
 
 Link to book chapter [here](https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml).
+
+
+
+## SDSS, 2021
+
+*__Software used__: Python, Google Colab notebook*
+
+<br>
+
+### Spatial Optimization for Planning and Decision-making
+
+Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the 2021 Spatial Data Science Symposium, held virtually and organized by some wonderful folks in my department's Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on "Spatial Optimization for Planning and Decision-Making," a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)
+
+<br>
+
+<center><script src="https://gist.github.com/sburtner/3c058b06fc56bf5293c9851dd645939a.js" width=1000></script></center>
+<center><sub> *The Colab (.* </sub></center>
+
 
 
 ## WE1S, 2020
@@ -52,11 +71,12 @@ I primarily worked on the Social Groups team, which explored themes related to r
 <center><sub> *A racial dot density map overlaid by the locations of HSIs, HBCUs, women's colleges and universities, and tribal colleges.* </sub></center>
 
 
+
 ## AAG Presentation, 2017
 
 ### Generating Building Exterior Wall Material Estimates Using Google Street View Imagery
 
-When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for many parts of countries or entire countries, so I explored how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to test out how to use the Google Street View API to obtain oblique (or street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect "brick" or "no brick". I did most of my API calls, labeling and automated file organization in Python. I implemented the CNN architecture [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), modified some parameters, and ran the model on an ORNL Linux machine.
+When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for parts of countries or entire countries, so I explored how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to test out how to use the Google Street View API to obtain oblique (street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect "brick" or "no brick". I did most of my API calls, labeling, and automated file organization in Python. I implemented the CNN architecture [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), modified some parameters, and ran the model on an ORNL Linux machine.
 
 <center><img src="images/brick.png" width="900"></center>
 <center><sub> *AAG presentation, 2017.* </sub></center>
@@ -64,6 +84,7 @@ When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with po
 <br>
 
 Link to the slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, [here](https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf).
+
 
 
 ## MUSA Capstone, 2015

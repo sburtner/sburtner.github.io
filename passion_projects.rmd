@@ -33,7 +33,7 @@ I joined the UC Davis Placemaking team to help create a map of all of the initia
 
 <br>
 
-<iframe src="images/placemaking_map.html" title="UC Placemaking Map" width="75%" height="400"></iframe>
+<iframe src="images/placemaking_map.html" title="UC Placemaking Map" width="75%" height="500"></iframe>
 
 
 

@@ -359,6 +359,22 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
+<div id="sdss-2021" class="section level2">
+<h2>SDSS, 2021</h2>
+<p><em><strong>Software used</strong>: Python, Google Colab notebook</em></p>
+<p><br></p>
+<div id="spatial-optimization-for-planning-and-decision-making" class="section level3">
+<h3>Spatial Optimization for Planning and Decision-making</h3>
+<p>Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the 2021 Spatial Data Science Symposium, held virtually and organized by some wonderful folks in my department’s Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on “Spatial Optimization for Planning and Decision-Making,” a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)</p>
+<p><br></p>
+<center>
+<script src="https://gist.github.com/sburtner/3c058b06fc56bf5293c9851dd645939a.js" width=1000></script>
+</center>
+<center>
+<sub> <em>The Colab (.</em> </sub>
+</center>
+</div>
+</div>
 <div id="we1s-2020" class="section level2">
 <h2>WE1S, 2020</h2>
 <div id="the-whatevery1says-project" class="section level3">
@@ -384,7 +400,7 @@ $(document).ready(function () {
 </center>
 <p><br></p>
 <center>
-<iframe src="we1s/webmap.html" title="WE1S Map" width="90%" height="500">
+<iframe src="we1s/webmap.html" title="WE1S Map" width="1000" height="500">
 </iframe>
 </center>
 <center>
@@ -396,7 +412,7 @@ $(document).ready(function () {
 <h2>AAG Presentation, 2017</h2>
 <div id="generating-building-exterior-wall-material-estimates-using-google-street-view-imagery" class="section level3">
 <h3>Generating Building Exterior Wall Material Estimates Using Google Street View Imagery</h3>
-<p>When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for many parts of countries or entire countries, so I explored how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to test out how to use the Google Street View API to obtain oblique (or street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect “brick” or “no brick”. I did most of my API calls, labeling and automated file organization in Python. I implemented the CNN architecture <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>, modified some parameters, and ran the model on an ORNL Linux machine.</p>
+<p>When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for parts of countries or entire countries, so I explored how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to test out how to use the Google Street View API to obtain oblique (street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect “brick” or “no brick”. I did most of my API calls, labeling, and automated file organization in Python. I implemented the CNN architecture <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>, modified some parameters, and ran the model on an ORNL Linux machine.</p>
 <center>
 <img src="images/brick.png" width="900">
 </center>

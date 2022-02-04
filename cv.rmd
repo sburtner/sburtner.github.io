@@ -2,8 +2,8 @@
 title: "Curriculum Vitae"
 ---
 
-*__Last Updated__: November 20, 2021.*
+*__Last Updated__: February 04, 2022.*
 
 <br>
 
-<center><object data="images/SusanBurtner_CV_Nov21.pdf" width="1000" height="1000" type="application/pdf"></object></center>
+<center><object data="images/SusanBurtner_CV_Jan22.pdf" width="1000" height="1000" type="application/pdf"></object></center>

@@ -4,7 +4,7 @@ title: "Research"
 
 # {.tabset}
 
-## COVID-19, 2021
+## COVID-19, 2022
 
 ### COVID-19 and Minimizing Micro-Spatial Interactions
 

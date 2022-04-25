@@ -9,14 +9,12 @@ title: 'Passion Projects and Service'
 
 ## Social Equity and Justice
 
-Throughout 2020, I grew increasingly distraght by the injustices experienced by Black and African American individuals by police and others across the United States. I embarked more earnestly on a path to better educate myself on what systemic racism looks like, and joined groups that engaged in promoting social equity and anti-racism. I view this learning / unlearning / action not as elective work, but morally imperative work. Half of the battle to implement anti-racist policies (recognized by scholars like bell hooks) is convincing folks that racism actually exists *here*, not just in the hand-wavy world around us, but here, in this classroom, in this department, and in this university, bolstering all of our instistutional structures, personal interactions, and distinguished pathways for upward social mobility.
+Throughout 2020, I grew increasingly alarmed by the injustices and bodily harm experienced by Black and African American individuals by police and others across the United States. I embarked more earnestly on a path to better educate myself on what systemic racism looks like and joined groups that engaged in anti-racism and social equity work. I view this learning / unlearning / action as morally imperative work that needs to be more rigorously addressed in academia. Half of the battle to implement anti-racist policies (recognized by scholars like bell hooks) is convincing folks that racism actually exists *here*, not just in the hand-wavy world around us, but here, in this classroom, in this department, and in this university, bolstering all of our instistutional structures, personal interactions, and distinguished pathways for upward social mobility.
 
-Two groups have been paramount to my education and work in this space, the first being my department's Geography Diversity, Equity, and Inclusion Working Group, and the second being UCSB's CITRAL Community of Practice. Both have provided a formal setting by which like-minded folks can meet, educate one another, discuss, and enact social change. Below are links to explore these groups further, and I sincerely welcome any ideas or resources to engage in similar thinking and action.
+Two groups have been paramount to my education and work in this space. The first is my department's Geography Diversity, Equity, and Inclusion Working Group, and the second is UCSB's Center for Innovative Teaching, Learning, and Research (CITRAL). Both have provided a formal setting by which like-minded folks can meet, educate one another, discuss, and enact social change. Below are links to explore these groups further. I sincerely welcome any ideas or resources to engage in similar thinking and action.
 
 * [Geography Diversity, Equity, and Inclusion Working Group](https://www.geog.ucsb.edu/about/equity-diversity-inclusion)
-* [CITRAL Community of Practice: Course Design for Equity](https://www.citral.ucsb.edu/innovations). The Center for Innovative Teaching, Research, and Learning is a unit within the University of California, Santa Barbara (UCSB), with a focus on teaching that is equitable, just, and evidence-based. CITRAL Community of Practice: Course Design for Equity (CoP) is a new initiative for UCSB graduate students who are committed to reflecting on and developing their pedagogical skills.
-Acceptance into the CoP is competitive and selected applicants typically already have a track record of thoughtful action toward equitable teaching. Participants meet six times over the course of two quarters, and they complete additional partnered and independent work between the meetings. A brief summary of the CoP is attached. At the end of the CoP, participants have 1) read about and discussed several frameworks that inform equitable and antiracist teaching; 2) developed or revised teaching portfolio materials such as syllabi and DEI statements to align with some of these frameworks; and 3) contributed to a community sharing resources, experiences, feedback, and knowledge.
-We recruit participants based on our belief that they will thrive in and fruitfully contribute to a community of thoughtful, generous, and innovative instructors. For questions about the instructor’s participation in the program, contact the facilitator of the CoP, Dr. Elina Salminen, at salminen@ucsb.edu.
+* [CITRAL Community of Practice: Course Design for Equity](https://www.citral.ucsb.edu/innovations). The Center for Innovative Teaching, Research, and Learning is a unit within the University of California, Santa Barbara (UCSB), with a focus on teaching that is equitable, just, and evidence-based. CITRAL Community of Practice: Course Design for Equity (CoP) is a new initiative for UCSB graduate students who are committed to reflecting on and developing their pedagogical skills. Acceptance into the CoP is competitive and selected applicants typically already have a track record of thoughtful action toward equitable teaching. Participants meet six times over the course of two quarters, and they complete additional partnered and independent work between the meetings. At the end of the CoP, participants have 1) read about and discussed several frameworks that inform equitable and antiracist teaching; 2) developed or revised teaching portfolio materials such as syllabi and DEI statements to align with some of these frameworks; and 3) contributed to a community sharing resources, experiences, feedback, and knowledge.
 
 <center><object data="images/CoPAllCertificates_Burtner.pdf" width="800" height="490" type="application/pdf"></object></center>
 
@@ -34,7 +32,7 @@ From the [The UC Placemaking Initiative](https://placemaking-uc.org/projects/) w
 
 > The UC Placemaking Initiative is a multi-campus network and public platform created in 2018 to support, study and amplify place-based research of UC artists, designers and media practitioners who are working across disciplinary fields in collaboration with multiple stakeholders to enact environmental and social change. This work brings visibility to UC’s core public research mission as a land-grant institution, committed to pedagogy and scholarship that directly serve the needs and interests of California’s diverse publics. As a cultural practice, placemaking engages the core values of diversity and equity as guiding principles to advance access and participation by those often underrepresented or excluded from the public process.
 
-I joined the UC Davis Placemaking team to help create a map of all of the initiative's affiliations between projects and people: who works with whom and where do practitioners reside, both in terms of their geographic location as well as their place-based organizations. A copy of the map of these affiliations is given below. You can view affiliations by people or projects, and the websites associated with them are attached as attributes on the nodes and edges of the network.
+I joined the University of California, Davis Placemaking team to help create a map of all of the initiative's affiliations between projects and people: who works with whom and where do practitioners reside in terms of their geographic location as well as their place-based organizations. A copy of the map of these affiliations is given below. You can view affiliations by people or projects, and the websites associated with collaborators are attached as attributes on the nodes and edges of the network.
 
 <br>
 
@@ -50,7 +48,7 @@ I joined the UC Davis Placemaking team to help create a map of all of the initia
 
 <br>
 
-Having advanced to candidacy and hardly engaging in formal coursework, I felt the need to maintain my knowledge and skills in machine learning. I decided to take on Kaggle's 30 Days of Machine Learning (ML) challenge, and despite not being able to do it in the designated 30 days, I was able to complete the tutorials for the challenge later during my winter break. I really enjoyed the tutorials and look forward to doing more Kaggle competitions in the future! My silly certificates are below.
+After advancing to candidacy I stopped taking a full course load, but I felt the need to maintain my knowledge and skills in machine learning. I decided to take on Kaggle's 30 Days of Machine Learning (ML) challenge, and despite not being able to do it in the designated 30 days, I was able to complete all tutorials. This experience inspired me to stay active in the Kaggle community, and I look forward to future competitions!
 
 <center><object data="images/subuntu - Intermediate Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
 
@@ -68,7 +66,7 @@ Having advanced to candidacy and hardly engaging in formal coursework, I felt th
 
 <br>
 
-MAT259 is a class on Algorithmic Visualization in the Media Arts and Technology department at the University of California, Santa Barbara. I took this class in anticipation of visualizing highly dimensional travel activity data, so my projects centered around using geographic (or geographically-related) data. Below are links to the second assignment and the final project:
+MAT259 is a class on Algorithmic Visualization in the Media Arts and Technology department at the University of California, Santa Barbara. I took this class in anticipation of visualizing highly dimensional travel activity data, so my projects centered around using geographic data. While the projects require Processing to render their interactivity, below are links to static images of the second assignment and the final project:
 
 * [Project 2 - 2D Visualization](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=77&t=314)
 
@@ -87,7 +85,7 @@ MAT259 is a class on Algorithmic Visualization in the Media Arts and Technology 
 
 <br>
 
-SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of a few course requirements for my Network Science and Big Data NSF Fellowship, and I learned a lot exploring the health outcomes of individuals in varying types of sexual activity networks with my peer and fellow award recipient, Vania Wang, who helped created the final project below.
+SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of the course requirements for my Network Science and Big Data NSF Fellowship. My fellow award recipient, Vania Wang, and I created the final project below, which visualizes the health outcomes of individuals in varying types of sexual activity networks.
 
 <br>
 
@@ -102,7 +100,7 @@ SOC294 is a class on Social Network Analysis in the Sociology department at the 
 
 <br>
 
-English 238 is a class on Critical Infrastructure in the English department at the University of California, Santa Barbara. The final project for the course was a culmination of work consolidated into a website (the first origins of this site!). Below is the last webpage of the project.
+[English 238](https://alanyliu.org/course/english-238-critical-infrastructure-studies-fall-2018/) is a class on Critical Infrastructure in the English department at the University of California, Santa Barbara. The field of critical infrastructure broadly examines how the digital humanities are uniquely positioned to interpret and critique the infrastructual elements of "culture" which simultaeously fulfill and constrain human experience. The final project for the course involved creating a public "Starter Kit," a website that consolidated a series of blog posts that introduce a topic within critical infrastructure. I chose to explore how the natural environment is seen as infrastructural, and how the process of "daylighting" a creek can serve as an act of both environmental and cultural restoration. Below is the last webpage of my "Starter Kit" project.
 
 <br>
 
@@ -116,7 +114,7 @@ One attempt to address the challenges of climate change at the urban-water nexus
 
 Geography is an incredibly diverse and broad field. While a [general definition](https://en.oxforddictionaries.com/definition/geography) of geography might be "the study of the physical features of the earth and its atmosphere" as well as the "human activity as it affects and is affected by these," I would describe the field of geography as encompassing any theoretical development or empirical research that privileges a perspective of "space" and "place." If you are exploring how the location of a phenomenon affects the nature of the phenomenon, you are doing geographic research!
 
-Here at UC Santa Barbara, geographic research interests vary wildly across human geography, physical and atmospheric sciences, climate change and variability, space/time knowledge and organization, and geographic information systems (GIS). While I work in the realm of networks of human activity, I have extensive experience in geographic information systems. A GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek, through a GIS.
+Here at the University of California, Santa Barbara, geographic research interests vary considerably across human geography, physical and atmospheric sciences, climate change, space/time knowledge and organization, and geographic information systems (GIS). A GIS allows a researcher to layer multiple aspects of geographic information for analysis or visualization. With my first Starter Kit, I try to communicate a bit about the spatial and geographic qualities of the critical infrastructure present at my area of interest, Islais Creek, through a GIS.
 
 #### How the Starter Kit was Made
 
@@ -195,7 +193,7 @@ Buildings | 2017 | [DataSF](https://data.sfgov.org/Housing-and-Buildings/Buildin
 
 <br>
 
-In the fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (in addition to avoiding completing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world deserved to better express awkward silences via text message.
+In the fall of 2016, I decided to write to the Unicode Consortium to advocate for the inclusion of a new emoji: a cricket. My motivation for doing so (in addition to avoiding completing my graduate school applications) stemmed from the simple fact that *there was no cricket emoji*, and I felt that the world needed a better way to express awkward silences through text.
 
 The process of creating and getting an emoji accepted was wonderful. Not only was it fun to write the [proposal](http://www.unicode.org/L2/L2016/16300-cricket-emoji.pdf) and design the cricket in Adobe Illustrator, but I also used this as an opportunity to learn [LaTeX](https://www.latex-project.org/). I have since learned there is a large emoji community, [emojination](http://www.emojination.org/), who maintain an active slack channel that helps other emoji enthusiasts get their proposals passed by the Emoji Subcommittee of Unicode.
 

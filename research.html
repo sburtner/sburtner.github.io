@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,24 +13,38 @@
 
 <title>Research</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -79,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +84,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +121,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +133,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,11 +143,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,13 +176,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -212,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,6 +204,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -264,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -326,7 +297,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -336,40 +307,104 @@ $(document).ready(function () {
 
 
 <div id="section" class="section level1 tabset">
-<h1></h1>
+<h1 class="tabset"></h1>
 <div id="covid-19-2022" class="section level2">
 <h2>COVID-19, 2022</h2>
-<div id="covid-19-and-minimizing-micro-spatial-interactions" class="section level3">
+<div id="covid-19-and-minimizing-micro-spatial-interactions"
+class="section level3">
 <h3>COVID-19 and Minimizing Micro-Spatial Interactions</h3>
 <div id="abstract" class="section level4">
 <h4>Abstract</h4>
-<p>COVID-19, the novel coronavirus that has disrupted lives around the world, continues to challenge how humans interact in public and shared environments. Repopulating the micro-spatial setting of an office building, with virus spread and transmission mitigation measures, is critical for a return to normalcy. Advice from public health experts, such as maintaining physical distancing from others and well-ventilated spaces, is essential, yet there is a lack of sound guidance on configuring office usage that allows for a safe return of workers. This paper highlights the potential for decision-making and planning insights through location analytics, particularly within an office setting. Proposed is a spatial analytic framework addressing the need for physical distancing and limiting worker interaction, supported by geographic information systems, network science, and spatial optimization. The developed modeling approach addresses dispersion of assigned office spaces as well as associated movement within the office environment. This can be used to support the design and utilization of offices in a manner that minimizes the risk of COVID-19 transmission. Our proposed model produces two main findings: 1) that the consideration of minimizing potential interaction as an objective has implications for the safety of work environments and 2) that current social distancing measures may be inadequate within office settings. Our results show that leveraging exploratory spatial data analyses through the integration of geographic information systems, network science, and spatial optimization enables the identification of workspace allocation alternatives in support of office repopulation efforts.</p>
-<p>Link to article <a href="https://dl.acm.org/doi/10.1145/3486970">here</a>.</p>
+<p>COVID-19, the novel coronavirus that has disrupted lives around the
+world, continues to challenge how humans interact in public and shared
+environments. Repopulating the micro-spatial setting of an office
+building, with virus spread and transmission mitigation measures, is
+critical for a return to normalcy. Advice from public health experts,
+such as maintaining physical distancing from others and well-ventilated
+spaces, is essential, yet there is a lack of sound guidance on
+configuring office usage that allows for a safe return of workers. This
+paper highlights the potential for decision-making and planning insights
+through location analytics, particularly within an office setting.
+Proposed is a spatial analytic framework addressing the need for
+physical distancing and limiting worker interaction, supported by
+geographic information systems, network science, and spatial
+optimization. The developed modeling approach addresses dispersion of
+assigned office spaces as well as associated movement within the office
+environment. This can be used to support the design and utilization of
+offices in a manner that minimizes the risk of COVID-19 transmission.
+Our proposed model produces two main findings: 1) that the consideration
+of minimizing potential interaction as an objective has implications for
+the safety of work environments and 2) that current social distancing
+measures may be inadequate within office settings. Our results show that
+leveraging exploratory spatial data analyses through the integration of
+geographic information systems, network science, and spatial
+optimization enables the identification of workspace allocation
+alternatives in support of office repopulation efforts.</p>
+<p>Link to article <a
+href="https://dl.acm.org/doi/10.1145/3486970">here</a>.</p>
 </div>
 </div>
 </div>
 <div id="urban-mobility-2021" class="section level2">
 <h2>Urban Mobility, 2021</h2>
-<div id="urban-mobility-and-segregation-examined-through-networked-travel-activity" class="section level3">
-<h3>Urban Mobility and Segregation Examined through Networked Travel Activity</h3>
+<div
+id="urban-mobility-and-segregation-examined-through-networked-travel-activity"
+class="section level3">
+<h3>Urban Mobility and Segregation Examined through Networked Travel
+Activity</h3>
 <div id="abstract-1" class="section level4">
 <h4>Abstract</h4>
-<p>Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social, and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work, and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).</p>
-<p>Link to book chapter <a href="https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml">here</a>.</p>
+<p>Individuals make travel decisions every day that feed into a vast
+network of spatial interactions. Unfortunately for some, ongoing
+economic, social, and psychological effects related to the United
+States’ history of racism, segregation, and discrimination have led to
+significant disparities in urban mobility across racial groups (Ray and
+Preston 2009). The effect of segregation in residential neighborhoods
+has been extensively studied, and more attention is being brought to
+other spatial contexts in which people interact. However, comparatively
+little research has taken a comprehensive approach to both segregation
+and urban mobility by analyzing residential, work, and social
+environments together. The utility of this approach lies in the ability
+to characterize physical spaces by their potential for interaction
+between racial groups, and whether or not group networks of activity
+reveal the different accessibility levels of neighborhoods in an area.
+This chapter seeks to address how networks and associated metrics can
+help to explain broad urban mobility patterns and the differences that
+exist between racial groups. In order to model urban mobility, we first
+construct networks of travel activity based on race. We then derive
+various network-based measures and a neighborhood-interaction potential
+matrix that compares travel between neighborhoods in our study area. We
+present results for the Los Angeles and Orange County area as a case
+study because it has a large, diverse population and continues to be a
+focus of segregation research (Johnston et al. 2006).</p>
+<p>Link to book chapter <a
+href="https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml">here</a>.</p>
 </div>
 </div>
 </div>
 <div id="sdss-2021" class="section level2">
 <h2>SDSS, 2021</h2>
-<div id="spatial-optimization-for-planning-and-decision-making" class="section level3">
+<div id="spatial-optimization-for-planning-and-decision-making"
+class="section level3">
 <h3>Spatial Optimization for Planning and Decision-making</h3>
-<p>Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the <a href="http://wp1066709.server-he.de/sdss2021/">2021 Spatial Data Science Symposium</a>, held virtually and organized by some wonderful folks in my department’s Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on “Spatial Optimization for Planning and Decision-Making,” a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)</p>
+<p>Getting deeper into the nuanced field of spatial data science, I
+decided to organize a session at the <a
+href="http://wp1066709.server-he.de/sdss2021/">2021 Spatial Data Science
+Symposium</a>, held virtually and organized by some wonderful folks in
+my department’s Space Time Knowledge Organization Laboratory. I
+recruited my fellow labmates (advisor: UCSB Geography professor Alan
+Murray) to help me create and present a session tutorial on “Spatial
+Optimization for Planning and Decision-Making,” a gentle introduction to
+spatial optimization for a land management scenario. (All data is the
+property of Alan Murray, and permission is needed to use the data and
+replicate the code.)</p>
 <p><br></p>
 <center>
 <script src="https://gist.github.com/sburtner/3c058b06fc56bf5293c9851dd645939a.js" width=1000></script>
 </center>
 <center>
-<sub> <em>The Google Colab notebook for our session tutorial.</em> </sub>
+<sub> <em>The Google Colab notebook for our session tutorial.</em>
+</sub>
 </center>
 </div>
 </div>
@@ -377,24 +412,54 @@ $(document).ready(function () {
 <h2>WE1S, 2020</h2>
 <div id="the-whatevery1says-project" class="section level3">
 <h3>The WhatEvery1Says Project</h3>
-<p>I am grateful to have had the opportunity to be a research assistant on the WhatEvery1Says project (WE1S) from 2018 to 2020. The project, led by UCSB English professor Alan Liu and an incredibly talented group of co-PIs and project managers from CSU Northridge and the University of Miami, used digital humanities methods to study media discourse about the humanities through large corpora of varying authorship:</p>
+<p>I am grateful to have had the opportunity to be a research assistant
+on the WhatEvery1Says project (WE1S) from 2018 to 2020. The project, led
+by UCSB English professor Alan Liu and an incredibly talented group of
+co-PIs and project managers from CSU Northridge and the University of
+Miami, used digital humanities methods to study media discourse about
+the humanities through large corpora of varying authorship:</p>
 <blockquote>
-<p>The project concentrates on, but is not limited to, journalistic articles in the U.S. available in digital textual form beginning circa 1981. Other materials include social media. Our hypothesis is that digital methods can help us learn new things about how the humanities have been portrayed in public discourse. For example, are there sub-themes beneath the familiar dominant clichés and memes? Are there hidden connections or mismatches between the “frames” (premises, metaphors, and narratives) of those arguing for and against the humanities? Where do the humanities fit among other topics in public discussion? How do different sources (for example, mainstream versus student newspapers) or different parts of the nation or world compare in the way they talk about the humanities? And in what way—if to any significant degree at all—does the media position racial, ethnic, gender, first-generation student and other social groups in relation to the humanities?</p>
+<p>The project concentrates on, but is not limited to, journalistic
+articles in the U.S. available in digital textual form beginning circa
+1981. Other materials include social media. Our hypothesis is that
+digital methods can help us learn new things about how the humanities
+have been portrayed in public discourse. For example, are there
+sub-themes beneath the familiar dominant clichés and memes? Are there
+hidden connections or mismatches between the “frames” (premises,
+metaphors, and narratives) of those arguing for and against the
+humanities? Where do the humanities fit among other topics in public
+discussion? How do different sources (for example, mainstream versus
+student newspapers) or different parts of the nation or world compare in
+the way they talk about the humanities? And in what way—if to any
+significant degree at all—does the media position racial, ethnic,
+gender, first-generation student and other social groups in relation to
+the humanities?</p>
 </blockquote>
-<p>I primarily worked on the Social Groups team, which explored themes related to race, gender, sexuality, and first-generation to college status. I not only worked with the topic models synthesizing results, I also leveraged my experience programming and making maps to create several visualizaions (see below). Part of our work trying to find connections between social groups and their portrayal in media led us to explore additional methods such as word embeddings (vectorized forms of words) to enhance our understanding of word similarity and the significance of who says what “where.” A detailed summary of our results can be found <a href="https://we1s.ucsb.edu/">here</a>.</p>
+<p>I primarily worked on the Social Groups team, which explored themes
+related to race, gender, sexuality, and first-generation to college
+status. I not only worked with the topic models synthesizing results, I
+also leveraged my experience programming and making maps to create
+several visualizaions (see below). Part of our work trying to find
+connections between social groups and their portrayal in media led us to
+explore additional methods such as word embeddings (vectorized forms of
+words) to enhance our understanding of word similarity and the
+significance of who says what “where.” A detailed summary of our results
+can be found <a href="https://we1s.ucsb.edu/">here</a>.</p>
 <p><br></p>
 <center>
 <img src="images/topic-bubble-1bc-250-38.png" width="800">
 </center>
 <center>
-<sub> <em>A screenshot of a typical topic bubble visualization used to study topics.</em> </sub>
+<sub> <em>A screenshot of a typical topic bubble visualization used to
+study topics.</em> </sub>
 </center>
 <p><br></p>
 <center>
 <img src="images/identity_network2.png" width="600">
 </center>
 <center>
-<sub> <em>Semantic network of key terms and the topics, identified by number, that they are in (created with R and D3).</em> </sub>
+<sub> <em>Semantic network of key terms and the topics, identified by
+number, that they are in (created with R and D3).</em> </sub>
 </center>
 <p><br></p>
 <center>
@@ -402,15 +467,35 @@ $(document).ready(function () {
 </iframe>
 </center>
 <center>
-<sub> <em>A racial dot density map overlaid by the locations of HSIs, HBCUs, women’s colleges and universities, and tribal colleges.</em> </sub>
+<sub> <em>A racial dot density map overlaid by the locations of HSIs,
+HBCUs, women’s colleges and universities, and tribal colleges.</em>
+</sub>
 </center>
 </div>
 </div>
 <div id="aag-presentation-2017" class="section level2">
 <h2>AAG Presentation, 2017</h2>
-<div id="generating-building-exterior-wall-material-estimates-using-google-street-view-imagery" class="section level3">
-<h3>Generating Building Exterior Wall Material Estimates Using Google Street View Imagery</h3>
-<p>When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with populating and managing a spatial database on global building information. Sometimes we would not have building information for parts of countries or entire countries, so I explored how we could leverage Google Street View imagery to improve the spatial coverage of our database. This led me to test out how to use the Google Street View API to obtain oblique (street level) imagery, scale that to extract thousands of labeled images of buildings based on known addresses and exterior wall material types (leveraging ORNL access to other building databases), and then train a convolutional neural network (CNN) to detect “brick” or “no brick”. I did most of my API calls, labeling, and automated file organization in Python. I implemented the CNN architecture <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>, modified some parameters, and ran the model on an ORNL Linux machine.</p>
+<div
+id="generating-building-exterior-wall-material-estimates-using-google-street-view-imagery"
+class="section level3">
+<h3>Generating Building Exterior Wall Material Estimates Using Google
+Street View Imagery</h3>
+<p>When I was working at Oak Ridge National Laboratory (ORNL), I was
+tasked with populating and managing a spatial database on global
+building information. Sometimes we would not have building information
+for parts of countries or entire countries, so I explored how we could
+leverage Google Street View imagery to improve the spatial coverage of
+our database. This led me to test out how to use the Google Street View
+API to obtain oblique (street level) imagery, scale that to extract
+thousands of labeled images of buildings based on known addresses and
+exterior wall material types (leveraging ORNL access to other building
+databases), and then train a convolutional neural network (CNN) to
+detect “brick” or “no brick”. I did most of my API calls, labeling, and
+automated file organization in Python. I implemented the CNN
+architecture <a
+href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>,
+modified some parameters, and ran the model on an ORNL Linux
+machine.</p>
 <center>
 <img src="images/brick.png" width="900">
 </center>
@@ -418,14 +503,25 @@ $(document).ready(function () {
 <sub> <em>AAG presentation, 2017.</em> </sub>
 </center>
 <p><br></p>
-<p>Link to the slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, <a href="https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf">here</a>.</p>
+<p>Link to the slides from the American Association of Geographers (AAG)
+2017 Annual Meeting, where I presented this work, <a
+href="https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf">here</a>.</p>
 </div>
 </div>
 <div id="musa-capstone-2015" class="section level2">
 <h2>MUSA Capstone, 2015</h2>
-<div id="using-gis-to-support-in-flight-operations-in-the-event-of-an-airport-outage" class="section level3">
-<h3>Using GIS to Support In-Flight Operations in the Event of an Airport Outage</h3>
-<p>For my master’s of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master’s thesis. My project was titled “Using GIS to Support In-Flight Operations in the Event of an Airport Outage.” My master’s committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors, and mentors. An image of the poster I created based on my paper is below.</p>
+<div
+id="using-gis-to-support-in-flight-operations-in-the-event-of-an-airport-outage"
+class="section level3">
+<h3>Using GIS to Support In-Flight Operations in the Event of an Airport
+Outage</h3>
+<p>For my master’s of urban spatial analytics degree (MUSA), I had to
+complete a capstone project, which was like a master’s thesis. My
+project was titled “Using GIS to Support In-Flight Operations in the
+Event of an Airport Outage.” My master’s committee included Professors
+Amy Hillier and Megan Ryerson from the University of Pennsylvania. They
+were incredible scholars, instructors, and mentors. An image of the
+poster I created based on my paper is below.</p>
 <center>
 <img src="images/SusanBurtner_YearEnd_submission.jpg" width="900">
 </center>
@@ -433,12 +529,14 @@ $(document).ready(function () {
 <sub> <em>MUSA Capstone project, completed May 2015.</em> </sub>
 </center>
 <p><br></p>
-<p>This work can be seen in the <a href="https://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=309&amp;moduleID=0">Esri Map Book, Volume 31: 168-169, Esri Press</a>.</p>
+<p>This work can be seen in the <a
+href="https://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=309&amp;moduleID=0">Esri
+Map Book, Volume 31: 168-169, Esri Press</a>.</p>
 </div>
 </div>
 </div>
 <div id="section-1" class="section level1 unnumbered">
-<h1></h1>
+<h1 class="unnumbered"></h1>
 </div>
 
 
@@ -450,7 +548,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -468,7 +566,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

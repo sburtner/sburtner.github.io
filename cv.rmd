@@ -6,4 +6,4 @@ title: "Curriculum Vitae"
 
 <br>
 
-<center><object data="images/CV_27July2025.pdf" width="1000" height="1000" type="application/pdf"></object></center>
+<center><object data="images/CV_28July2025.pdf" width="1000" height="1000" type="application/pdf"></object></center>

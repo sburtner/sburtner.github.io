@@ -4,16 +4,16 @@ navbar:
   title: "Susan Burtner <img id=\"logo\" style=\"width: 35px;\" src=\"images/IC_crane_black.png\" align=\"left\" />"
   left:
     - text: "About"
-      icon: fa-globe-americas
+      #icon: fa-globe-americas
       href: index.html
     - text: "Research"
-      icon: fa-university
+      #icon: fa-university
       href: research.html
     - text: "Passion Projects"
-      icon: fa-heart
+      #icon: fa-heart
       href: passion_projects.html
     - text: "CV"
-      icon: fa-list-alt
+      #icon: fa-list-alt
       href: cv.html
   right:
     - icon: fa-envelope

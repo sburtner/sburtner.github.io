@@ -4,9 +4,34 @@ title: "Research"
 
 # {.tabset}
 
-## COVID-19, 2022
+## Community Violence Intervention
+
+### Characterizing Violence Intervention Street Outreach Participants and Service Dosage: Implications for Measurement and Evaluation
+
+By Marisa Ross, Susan Burtner, and Andrew Papachristos
+
+Accepted for Publication July, 2025.
+
+### Abstract
+
+**Introduction**: Community violence intervention street outreach (CVI-SO) strategies are growing in popularity as non-punitive approaches to solving the public health problem of community gun violence. Evidence on the effectiveness of CVI-SO on rates of violence is mixed and faces challenges due to concerns with documentation and data privacy, intentional selection bias in program design, and variation in participant risk and needs. Effective evaluation requires methods that accurately capture the scope and delivery of services, starting with a greater understanding of the services CVI participants receive and how they vary based on individual characteristics.
+
+**Methods**: This study explores the services that participants received from a coalition of Chicago CVI organizations from 2017–2023. Considering administrative and programmatic data from over 4,000 participants’ nearly 200,000 interactions with providers, the researchers examine patterns in demographics, network-based risk factors, and service provision and dosage. They then use descriptive and latent profile analyses to characterize the “typical” participant in Chicago.
+
+**Results**: Results show that CVI work relies heavily on long-term mentoring relationships. Service patterns show that latent groups exist with varying dosage: higher dosage participants with higher risk for gun violence receive more frequent contacts over longer periods, demonstrating how organizations adjust their approach based on participant needs. Profiles that primarily receive behavioral or social supports-related services also emerge.
+
+**Conclusions**: Findings underscore the need for evaluation frameworks that capture both the strategic variation in service delivery and the multiple pathways through which CVI programs influence participant outcomes.
+
+Link to the [working paper](https://www.ipr.northwestern.edu/our-work/working-papers/2025/wp-25-08.html).
+
+
+## Spatial Optimization
 
 ### COVID-19 and Minimizing Micro-Spatial Interactions
+
+By Susan Burtner and Alan T. Murray
+
+Published in January, 2022.
 
 #### Abstract
 
@@ -14,23 +39,13 @@ COVID-19, the novel coronavirus that has disrupted lives around the world, conti
 
 Link to article [here](https://dl.acm.org/doi/10.1145/3486970).
 
-
-
-## Urban Mobility, 2021
-
-### Urban Mobility and Segregation Examined through Networked Travel Activity
-
-#### Abstract
-
-Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social, and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work, and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).
-
-Link to book chapter [here](https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml).
-
-
-
-## SDSS, 2021
+<br>
 
 ### Spatial Optimization for Planning and Decision-making
+
+#### Spatial Data Science Symposium
+
+Presented December, 2021.
 
 Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the [2021 Spatial Data Science Symposium](http://wp1066709.server-he.de/sdss2021/), held virtually and organized by some wonderful folks in my department's Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on "Spatial Optimization for Planning and Decision-Making," a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)
 
@@ -39,9 +54,52 @@ Getting deeper into the nuanced field of spatial data science, I decided to orga
 <center><script src="https://gist.github.com/sburtner/3c058b06fc56bf5293c9851dd645939a.js" width=1000></script></center>
 <center><sub> *The Google Colab notebook for our session tutorial.* </sub></center>
 
+<br>
+
+### Using GIS to Support In-Flight Operations in the Event of an Airport Outage
+
+#### MUSA Capstone, 2015
+
+For my master's of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master's thesis. My project was titled "Using GIS to Support In-Flight Operations in the Event of an Airport Outage." My master's committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors, and mentors. An image of the poster I created based on my paper is below.
+
+<center><img src="images/SusanBurtner_YearEnd_submission.jpg" width="900"></center>
+<center><sub> *MUSA Capstone project, completed May 2015.* </sub></center>
+
+<br>
+
+This work can be seen in the [Esri Map Book, Volume 31: 168-169, Esri Press](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=309&moduleID=0).
 
 
-## WE1S, 2020
+
+## Network Science
+
+### Urban Mobility and Segregation Examined through Networked Travel Activity
+
+By Susan Burtner and Alan T. Murray
+
+Published July, 2021.
+
+#### Abstract
+
+Individuals make travel decisions every day that feed into a vast network of spatial interactions. Unfortunately for some, ongoing economic, social, and psychological effects related to the United States’ history of racism, segregation, and discrimination have led to significant disparities in urban mobility across racial groups (Ray and Preston 2009). The effect of segregation in residential neighborhoods has been extensively studied, and more attention is being brought to other spatial contexts in which people interact. However, comparatively little research has taken a comprehensive approach to both segregation and urban mobility by analyzing residential, work, and social environments together. The utility of this approach lies in the ability to characterize physical spaces by their potential for interaction between racial groups, and whether or not group networks of activity reveal the different accessibility levels of neighborhoods in an area. This chapter seeks to address how networks and associated metrics can help to explain broad urban mobility patterns and the differences that exist between racial groups. In order to model urban mobility, we first construct networks of travel activity based on race. We then derive various network-based measures and a neighborhood-interaction potential matrix that compares travel between neighborhoods in our study area. We present results for the Los Angeles and Orange County area as a case study because it has a large, diverse population and continues to be a focus of segregation research (Johnston et al. 2006).
+
+Link to the book chapter [here](https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml).
+
+
+### Social Network Analysis Final Project
+
+*__Software used__: R/RStudio, R Shiny, D3*
+
+<br>
+
+SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of the course requirements for my Network Science and Big Data NSF Fellowship. My fellow award recipient, Vania Wang, and I created the final project below, which visualizes the health outcomes of individuals in varying types of sexual activity networks.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pu009cGRgzQ" title="samnet demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Digital Humanities
 
 ### The WhatEvery1Says Project
 
@@ -49,7 +107,7 @@ I am grateful to have had the opportunity to be a research assistant on the What
 
 > The project concentrates on, but is not limited to, journalistic articles in the U.S. available in digital textual form beginning circa 1981. Other materials include social media. Our hypothesis is that digital methods can help us learn new things about how the humanities have been portrayed in public discourse. For example, are there sub-themes beneath the familiar dominant clichés and memes? Are there hidden connections or mismatches between the “frames” (premises, metaphors, and narratives) of those arguing for and against the humanities? Where do the humanities fit among other topics in public discussion? How do different sources (for example, mainstream versus student newspapers) or different parts of the nation or world compare in the way they talk about the humanities? And in what way—if to any significant degree at all—does the media position racial, ethnic, gender, first-generation student and other social groups in relation to the humanities?
 
-I primarily worked on the Social Groups team, which explored themes related to race, gender, sexuality, and first-generation to college status. I not only worked with the topic models synthesizing results, I also leveraged my experience programming and making maps to create several visualizaions (see below). Part of our work trying to find connections between social groups and their portrayal in media led us to explore additional methods such as word embeddings (vectorized forms of words) to enhance our understanding of word similarity and the significance of who says what "where." A detailed summary of our results can be found [here](https://we1s.ucsb.edu/).
+I primarily worked on the Identity and Inclusion team, which explored themes related to race, gender, sexuality, and first-generation to college status. I not only worked with the topic models synthesizing results, I also leveraged my experience programming and making maps to create several visualizations (see below or [this blog post](https://we1s.ucsb.edu/research_post/mapping-hsis-hbcus-womens-colleges-and-tribal-colleges/)). Part of our work trying to find connections between social groups and their portrayal in media led us to explore additional methods such as word embeddings (vectorized forms of words) to enhance our understanding of word similarity and the significance of who says what "where." A detailed summary of our results can be found [here](https://we1s.ucsb.edu/).
 
 <br>
 
@@ -68,7 +126,7 @@ I primarily worked on the Social Groups team, which explored themes related to r
 
 
 
-## AAG Presentation, 2017
+## Machine Learning
 
 ### Generating Building Exterior Wall Material Estimates Using Google Street View Imagery
 
@@ -81,20 +139,6 @@ When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with po
 
 Link to the slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, [here](https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf).
 
-
-
-## MUSA Capstone, 2015
-
-### Using GIS to Support In-Flight Operations in the Event of an Airport Outage
-
-For my master's of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master's thesis. My project was titled "Using GIS to Support In-Flight Operations in the Event of an Airport Outage." My master's committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors, and mentors. An image of the poster I created based on my paper is below.
-
-<center><img src="images/SusanBurtner_YearEnd_submission.jpg" width="900"></center>
-<center><sub> *MUSA Capstone project, completed May 2015.* </sub></center>
-
-<br>
-
-This work can be seen in the [Esri Map Book, Volume 31: 168-169, Esri Press](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=309&moduleID=0).
 
 
 # {-}

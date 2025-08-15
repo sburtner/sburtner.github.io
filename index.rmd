@@ -6,19 +6,13 @@ title: "About Me"
 
 <center><img src="images/Su_bio_final_fixed.JPG" width="400"></center>
 
-## Hi, I'm Su!
+## Hi, I'm Su.
 
-You can spell my name Su or Sue, I don't mind either way.
+I am currently the [Director of Quantitative Research at the Center for Neighborhood Engaged Research and Science](https://www.cornersresearch.org/team/susan-burtner) at Northwestern University. I completed my PhD in Geography (studying spatial optimization) at the University of California, Santa Barbara. Before that, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. And even before that, I earned a master's degree in urban spatial analytics at the University of Pennsylvania following a bachelor's degree in operations research and management science at the University of California, Berkeley. I consider the Sacramento area home but love my entire home state of California deeply.
 
-I am currently a PhD candidate in the Geography department at the University of California, Santa Barbara. Before this, I was a research associate in the Geographic Information Science and Technology group at Oak Ridge National Laboratory. Before that, I was "master"-ing urban spatial analytics at the University of Pennsylvania. And even before that, I was studying operations research and management science at the University of California, Berkeley. I consider the Sacramento area home and have a deep love and appreciation for the northern California region.
+**Spatial data science**, **computational social science**, **network science**, **geographic information science**... these are my things (see my [CV](cv.html)). But I enjoy a lot of other things too, like surfing, paddling (outrigger canoe and dragonboat), Olympic weightlifting, playing basketball, and visiting breweries with my pets. I strongly believe in having an identity outside of work, but thankfully I am passionate about that as well.
 
-**Spatial data science**, **spatial optimization**, **network science**, **geographic information science**... these are my things (see my [CV](cv.html)). But I enjoy a lot of other things too, like surfing, paddling (outrigger canoe and dragonboat), skateboarding, Olympic weightlifting, Brazilian jiu jitsu, caring for my growing collection of plants, and visiting breweries with my dog Flower. I strongly believe in having an identity outside of work, but thankfully I am passionate about that as well.
+### About this website
 
-### Purpose of this website
-
-I created this website to help document my PhD experience and daylight past and current projects. There are tabs for research and passion projects. The [research](research.html) tab highlights projects produced through research positions, while the [passion projects](passion_projects.html) tab highlights those projects produced from coursework, through service (university, departmental, or community), or conducted in my free time (software if relevant is listed). This website is not an exhaustive collection of everything I have ever done, and updates may happen haphazardly.
-
-### Contact
-
-I greatly welcome any questions you may have about me or my work. Please feel free to send me a message using one of the links in the header.
+I created this website to daylight past and current projects. There are tabs for research and service or passion projects. The [research](research.html) tab highlights research projects, while the [passion projects](passion_projects.html) tab highlights those projects produced from coursework, through service, or in my free time (software if relevant are listed). This website is not an exhaustive collection of everything I have ever done, and updates may happen haphazardly. Please don't hesitate to ask questions or connect using one of the links in the header.
 

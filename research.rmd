@@ -10,9 +10,9 @@ title: "Research"
 
 By Marisa Ross, Susan Burtner, and Andrew Papachristos
 
-Accepted for Publication July, 2025.
+_Accepted for Publication July 2025._
 
-### Abstract
+#### Abstract
 
 **Introduction**: Community violence intervention street outreach (CVI-SO) strategies are growing in popularity as non-punitive approaches to solving the public health problem of community gun violence. Evidence on the effectiveness of CVI-SO on rates of violence is mixed and faces challenges due to concerns with documentation and data privacy, intentional selection bias in program design, and variation in participant risk and needs. Effective evaluation requires methods that accurately capture the scope and delivery of services, starting with a greater understanding of the services CVI participants receive and how they vary based on individual characteristics.
 
@@ -25,13 +25,14 @@ Accepted for Publication July, 2025.
 Link to the [working paper](https://www.ipr.northwestern.edu/our-work/working-papers/2025/wp-25-08.html).
 
 
+
 ## Spatial Optimization
 
 ### COVID-19 and Minimizing Micro-Spatial Interactions
 
 By Susan Burtner and Alan T. Murray
 
-Published in January, 2022.
+_Published in January 2022._
 
 #### Abstract
 
@@ -39,13 +40,13 @@ COVID-19, the novel coronavirus that has disrupted lives around the world, conti
 
 Link to article [here](https://dl.acm.org/doi/10.1145/3486970).
 
-<br>
+<hr/>
 
 ### Spatial Optimization for Planning and Decision-making
 
 #### Spatial Data Science Symposium
 
-Presented December, 2021.
+_Presented December 2021._
 
 Getting deeper into the nuanced field of spatial data science, I decided to organize a session at the [2021 Spatial Data Science Symposium](http://wp1066709.server-he.de/sdss2021/), held virtually and organized by some wonderful folks in my department's Space Time Knowledge Organization Laboratory. I recruited my fellow labmates (advisor: UCSB Geography professor Alan Murray) to help me create and present a session tutorial on "Spatial Optimization for Planning and Decision-Making," a gentle introduction to spatial optimization for a land management scenario. (All data is the property of Alan Murray, and permission is needed to use the data and replicate the code.)
 
@@ -54,11 +55,9 @@ Getting deeper into the nuanced field of spatial data science, I decided to orga
 <center><script src="https://gist.github.com/sburtner/3c058b06fc56bf5293c9851dd645939a.js" width=1000></script></center>
 <center><sub> *The Google Colab notebook for our session tutorial.* </sub></center>
 
-<br>
+<hr/>
 
 ### Using GIS to Support In-Flight Operations in the Event of an Airport Outage
-
-#### MUSA Capstone, 2015
 
 For my master's of urban spatial analytics degree (MUSA), I had to complete a capstone project, which was like a master's thesis. My project was titled "Using GIS to Support In-Flight Operations in the Event of an Airport Outage." My master's committee included Professors Amy Hillier and Megan Ryerson from the University of Pennsylvania. They were incredible scholars, instructors, and mentors. An image of the poster I created based on my paper is below.
 
@@ -77,7 +76,7 @@ This work can be seen in the [Esri Map Book, Volume 31: 168-169, Esri Press](htt
 
 By Susan Burtner and Alan T. Murray
 
-Published July, 2021.
+_Published July 2021._
 
 #### Abstract
 
@@ -85,6 +84,7 @@ Individuals make travel decisions every day that feed into a vast network of spa
 
 Link to the book chapter [here](https://www.elgaronline.com/view/edcoll/9781788114707/9781788114707.00024.xml).
 
+<hr/>
 
 ### Social Network Analysis Final Project
 
@@ -97,6 +97,7 @@ SOC294 is a class on Social Network Analysis in the Sociology department at the 
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu009cGRgzQ" title="samnet demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Digital Humanities
@@ -138,6 +139,24 @@ When I was working at Oak Ridge National Laboratory (ORNL), I was tasked with po
 <br>
 
 Link to the slides from the American Association of Geographers (AAG) 2017 Annual Meeting, where I presented this work, [here](https://nbviewer.jupyter.org/github/sburtner/sburtner.github.io/blob/1df211e129a9352a0ca8152a64ed08be025c750a/images/AAG_2017.pdf).
+
+</hr>
+
+### Kaggle's 30 Days of ML
+
+*__Software used__*: Python
+
+<br>
+
+After advancing to candidacy for my PhD I stopped taking a full course load, but I felt the need to maintain my knowledge in machine learning (ML), a burgeoning interest. I decided to take on Kaggle's 30 Days of ML challenge, and eventually completed all the tutorials. The experience was fun and helped me sharpen my ML skills.
+
+<center><object data="images/subuntu - Intermediate Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
+
+<center><object data="images/subuntu - Intro to Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
+
+<center><object data="images/subuntu - Python.png" width="800" height="490" type="application/pdf"></object></center>
+
+<br>
 
 
 

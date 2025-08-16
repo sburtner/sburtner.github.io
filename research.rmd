@@ -90,8 +90,6 @@ Link to the book chapter [here](https://www.elgaronline.com/view/edcoll/97817881
 
 *__Software used__: R/RStudio, R Shiny, D3*
 
-<br>
-
 SOC294 is a class on Social Network Analysis in the Sociology department at the University of California, Santa Barbara. This class was one of the course requirements for my Network Science and Big Data NSF Fellowship. My fellow award recipient, Vania Wang, and I created the final project below, which visualizes the health outcomes of individuals in varying types of sexual activity networks.
 
 <br>
@@ -148,7 +146,7 @@ Link to the slides from the American Association of Geographers (AAG) 2017 Annua
 
 <br>
 
-After advancing to candidacy for my PhD I stopped taking a full course load, but I felt the need to maintain my knowledge in machine learning (ML), a burgeoning interest. I decided to take on Kaggle's 30 Days of ML challenge, and eventually completed all the tutorials. The experience was fun and helped me sharpen my ML skills.
+After advancing to candidacy for my PhD I stopped taking a full course load, but I felt the need to maintain my knowledge in machine learning (ML), a burgeoning interest. I decided to take on Kaggle's 30 Days of ML challenge, and eventually completed all the tutorials. The experience was fun and helped me sharpen my ML skills, which has served me well at various points in my research career.
 
 <center><object data="images/subuntu - Intermediate Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
 

@@ -39,7 +39,7 @@ I joined the University of California, Davis Placemaking team to help create a m
 
 <iframe src="images/placemaking_map.html" title="UC Placemaking Map" width="75%" height="500"></iframe>
 
-</hr>
+<hr/>
 
 ### Algorithmic Visualization
 
@@ -55,7 +55,7 @@ MAT259 is a class on Algorithmic Visualization in the Media Arts and Technology 
 
 <center><img src="images/final_dow_update.png" width="500"></center>
 
-</hr>
+<hr/>
 
 ### Critical Infrastructure Project
 

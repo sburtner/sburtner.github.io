@@ -1,4 +1,9 @@
+ # Ignore unwanted R files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore annoying Mac data files
+.DS_Store
+

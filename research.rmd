@@ -144,8 +144,6 @@ Link to the slides from the American Association of Geographers (AAG) 2017 Annua
 
 *__Software used__*: Python
 
-<br>
-
 After advancing to candidacy for my PhD I stopped taking a full course load, but I felt the need to maintain my knowledge in machine learning (ML), a burgeoning interest. I decided to take on Kaggle's 30 Days of ML challenge, and eventually completed all the tutorials. The experience was fun and helped me sharpen my ML skills, which has served me well at various points in my research career.
 
 <center><object data="images/subuntu - Intermediate Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
@@ -153,9 +151,6 @@ After advancing to candidacy for my PhD I stopped taking a full course load, but
 <center><object data="images/subuntu - Intro to Machine Learning.png" width="800" height="490" type="application/pdf"></object></center>
 
 <center><object data="images/subuntu - Python.png" width="800" height="490" type="application/pdf"></object></center>
-
-<br>
-
 
 
 # {-}
